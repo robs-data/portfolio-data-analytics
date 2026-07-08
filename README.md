@@ -1,205 +1,262 @@
-<!-- ========================= HEADER ========================= -->
+<div align="center">
+# 🚗 Dashboard de Gestão para Empresa de Locação de Veículos
+### **Um projeto de Business Intelligence desenvolvido em Power BI para análise financeira, operacional e comercial de uma empresa de locação de veículos.**
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=35B7F0&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Robson+Pereira!;Data+Analyst+%7C+SQL+%7C+Python+%7C+Power+BI;Transformando+Dados+em+Decis%C3%B5es+Estrat%C3%A9gicas" />
-</h1>
+<img src="./imagens/capa.png" width="100%">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/robs-data/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<br>
 
-  <a href="mailto:robsonp.mdo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-025E8C?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-0052CC?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-FF6F00?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
 
----
+</div>
 
-# 👨‍💻 Sobre Mim
+<br><br>
 
-💡 **Transformo dados em informações para apoiar decisões estratégicas.**
+<a href="https://app.powerbi.com/view?r=eyJrIjoiODE4NjhiODItNmI2OS00N2FhLTg2MWYtNDBjNWQ2MmNiOTQyIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9" target="_blank">
 
-Sou estudante de **Ciência de Dados**, desenvolvendo projetos voltados para análise, tratamento, visualização e modelagem de dados.
-
-Tenho experiência na área comercial, o que me proporciona uma visão de negócio para transformar dados em soluções que geram valor para empresas.
-
-🎯 **Objetivo:** atuar como **Analista de Dados**, utilizando tecnologia para resolver problemas reais e apoiar a tomada de decisões.
-
----
-
-# 🛠️ Tecnologias
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
-</p>
-
----
-
-# 📈 Estatísticas do GitHub
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=robs-data&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robs-data&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 Projeto em Destaque
-
-## 📈 Dashboard de Análise de Eventos
-
-<p align="center">
-<img width="1437" src="https://github.com/user-attachments/assets/8e1b6128-1125-479a-ba25-cd719e5780cf">
-</p>
-
-### 🎯 Objetivo
-
-Analisar dados de eventos para identificar fatores que impactam o faturamento e apoiar decisões estratégicas.
-
-### 🛠 Tecnologias
-
-- Python
-- SQL Server
-- Power BI
-
-### 📌 Principais entregas
-
-✔ Limpeza e tratamento dos dados
-
-✔ Modelagem dos dados
-
-✔ Construção de dashboard interativo
-
-✔ Identificação de sazonalidade
-
-✔ Clientes mais rentáveis
-
-✔ Categorias mais lucrativas
-
-### 🚀 Resultado
-
-O dashboard permitiu identificar padrões de receita e oportunidades de crescimento, facilitando a tomada de decisões baseada em dados.
-
-<p align="center">
-
-<a href="https://app.powerbi.com/view?r=eyJrIjoiNjliZmY1OTAtMWE3ZS00MjdlLWJiZmItOTA3OTVhOWRjMjVlIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9">
-
-<img src="https://img.shields.io/badge/Visualizar%20Dashboard%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/🌐%20Visualizar%20Dashboard%20Online-118DFF?style=for-the-badge&logo=powerbi&logoColor=white">
 
 </a>
 
+&nbsp;&nbsp;
+
+<a href="./dashboard/Locacao-de-Veiculos.pbix">
+
+<img src="https://img.shields.io/badge/📥%20Download%20do%20Projeto%20(.pbix)-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+
+</a>
+
+</div>
+
+# 🔗 Arquivos do Projeto
+
+> **Projeto desenvolvido para fins educacionais utilizando dados fictícios.**
+
+- 📊 Dashboard desenvolvido no Power BI
+- 📁 Base de dados em Excel
+- 📈 Indicadores Estratégicos (KPIs)
+- 📷 Capturas do Dashboard
+
+---
+
+# 📌 1. Resumo Executivo
+
+Este projeto foi desenvolvido com o objetivo de simular um ambiente corporativo de uma empresa de locação de veículos, aplicando conceitos de Business Intelligence para transformar dados em informações estratégicas.
+
+O dashboard foi projetado para fornecer uma visão integrada das operações da empresa, permitindo acompanhar indicadores financeiros, desempenho da frota, comportamento dos clientes e projeções de crescimento.
+
+Todo o projeto foi desenvolvido utilizando boas práticas de modelagem de dados, construção de KPIs e visualização executiva.
+
+---
+
+# 🏗️ 2. Arquitetura e Stack Tecnológica
+
+O projeto foi desenvolvido contemplando todas as etapas da análise de dados.
+
+### 📂 Fonte de Dados
+
+- Microsoft Excel
+- Base de dados fictícia
+
+### 🔄 ETL
+
+- Power Query
+- Tratamento de dados
+- Padronização
+- Limpeza de inconsistências
+
+### 📊 Modelagem
+
+- Modelo Estrela
+- Relacionamentos
+- Medidas DAX
+- KPIs
+
+### 📈 Visualização
+
+- Power BI
+- Dashboards Executivos
+- Segmentações
+- Indicadores
+- Navegação entre páginas
+
+---
+
+# 🚀 3. Desenvolvimento do Projeto
+
+## 🔹 Modelagem dos Dados
+
+Foi realizada a modelagem do banco de dados utilizando relacionamentos entre tabelas para permitir uma análise consistente das informações.
+
+Também foram desenvolvidas medidas em DAX para cálculo de indicadores financeiros, operacionais e comerciais.
+
+---
+
+## 🔹 Construção dos Indicadores
+
+Foram criados diversos KPIs para acompanhamento do desempenho da empresa, entre eles:
+
+- Receita Total
+- Receita Diária
+- Clientes Ativos
+- Clientes Inativos
+- Veículos Mais Rentáveis
+- Custos Operacionais
+- Quilometragem Total
+- Projeção de Vendas
+
+---
+
+## 🔹 Desenvolvimento do Dashboard
+
+O dashboard foi desenvolvido seguindo princípios de Data Visualization, priorizando simplicidade, organização visual e facilidade de interpretação dos dados.
+
+Foram utilizados:
+
+- Cartões (KPIs)
+- Gráficos de barras
+- Gráficos de linhas
+- Segmentações
+- Navegação entre páginas
+- Layout corporativo
+
+---
+
+# 📊 4. Principais Indicadores
+
+## 💰 Financeiro
+
+- Faturamento anual
+- Receita diária
+- Evolução do faturamento
+- Receita por veículo
+
+---
+
+## 👥 Clientes
+
+- Clientes ativos
+- Clientes inativos
+- Cadastro de clientes
+- Evolução da carteira
+
+---
+
+## 🚙 Frota
+
+- Veículos mais lucrativos
+- Quilometragem total
+- Custos operacionais
+- Utilização da frota
+
+---
+
+## 📈 Projeções
+
+- Projeção de vendas
+- Crescimento anual
+- Tendências do negócio
+
+---
+
+# 🖥️ Dashboard
+
+## 🎯 Página Inicial
+
+<p align="center">
+<img src="imagens/capa.png" width="100%">
 </p>
 
 ---
 
-# 📂 Projetos
+## 📈 Dashboard de Clientes
 
-| Projeto | Tecnologias |
-|---------|-------------|
-| 📊 Dashboard de Eventos | Power BI • SQL • Python |
-| 🚗 Locação de Veículos | SQL |
-| 🗄 Banco de Dados MySQL | MySQL |
-| 🐍 Exercícios Python | Python |
-| 🤖 Machine Learning *(em breve)* | Scikit-Learn |
+<p align="center">
+<img src="./imagens/clientes.png" width="49%">
+</p>
 
 ---
 
-# 📚 Atualmente Estudando
+## 🚗 Dashboard Operacional
 
-✅ SQL Avançado
-
-✅ Python para Ciência de Dados
-
-✅ Estatística
-
-✅ Power BI
-
-✅ Machine Learning
+<p align="center">
+ <img src="./imagens/dashboard.png" width="49%">
+</p>
 
 ---
 
-# 🎯 Roadmap
+## 📊 Dashboard de Previsão
 
-### ✔ Em desenvolvimento
+<p align="center">
+<img src="./imagens/previsao.png" width="80%">
+</p>
+---
 
-- SQL
-- Python
+# 💡 6. Principais Insights
+
+A análise dos indicadores permite identificar rapidamente:
+
+- Evolução do faturamento da empresa.
+- Veículos com maior rentabilidade.
+- Perfil dos clientes ativos e inativos.
+- Custos operacionais da frota.
+- Tendências de crescimento para os próximos períodos.
+
+---
+
+# 📚 7. Competências Desenvolvidas
+
+Durante o desenvolvimento deste projeto foram aplicados conhecimentos em:
+
+- Business Intelligence
 - Power BI
-- Estatística
-- Visualização de Dados
+- Power Query
+- DAX
 - Modelagem de Dados
-
-### 🔜 Próximos passos
-
-- Machine Learning
-- Engenharia de Dados
-- Cloud para Dados
-- Deep Learning
+- ETL
+- Storytelling com Dados
+- Data Visualization
+- Construção de KPIs
 
 ---
 
-# 🎓 Formação e Certificações
+# 🎯 8. Objetivos Alcançados
 
-## 🎓 Formação
+✔ Desenvolvimento de dashboard executivo
 
-- Bacharelado em Ciência de Dados *(em andamento)*
+✔ Construção de indicadores estratégicos
 
-## 📜 Certificações
+✔ Aplicação de boas práticas em Business Intelligence
 
-- ✅ Python
-- ✅ SQL
-- ✅ Power BI
-- 🔜 Machine Learning
-- 🔜 Estatística para Ciência de Dados
+✔ Modelagem de dados
 
----
+✔ Desenvolvimento de medidas DAX
 
-# 📫 Contato
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/robs-data/">
-
-<img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-<a href="mailto:robsonp.mdo@gmail.com">
-
-<img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-</p>
+✔ Criação de visualizações executivas
 
 ---
 
-<p align="center">
+# 🎓 9. Contexto do Projeto
 
-⭐ Se gostou dos meus projetos, fique à vontade para explorar meus repositórios!
+Projeto desenvolvido durante os estudos em Power BI, com orientação do Professor Danilo Maciel (Yto Nihon Treinamentos).
 
-</p>
+Todos os dados utilizados são fictícios e possuem finalidade exclusivamente educacional.
+
+---
+
+<div align="center">
+
+## 👨‍💻 Autor
+
+### **Robson Pereira Machado**
+
+**Analista de Dados em Formação**
+
+Power BI • SQL • Python • Excel • Business Intelligence • Data Analytics
+
+</div>
