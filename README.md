@@ -2,7 +2,7 @@
 # 🚗 Dashboard de Gestão para Empresa de Locação de Veículos
 ### **Um projeto de Business Intelligence desenvolvido em Power BI para análise financeira, operacional e comercial de uma empresa de locação de veículos.**
 
-<img src="./imagens/capa.png" width="100%">
+<img src="./Imagens/capa.png" width="100%">
 
 <br>
 
@@ -169,7 +169,7 @@ Foram utilizados:
 ## 🎯 Página Inicial
 
 <p align="center">
-<img src="imagens/capa.png" width="100%">
+<img src="Imagens/capa.png" width="100%">
 </p>
 
 ---
@@ -177,7 +177,7 @@ Foram utilizados:
 ## 📈 Dashboard de Clientes
 
 <p align="center">
-<img src="./imagens/clientes.png" width="49%">
+<img src="./Imagens/clientes.png" width="49%">
 </p>
 
 ---
@@ -185,7 +185,7 @@ Foram utilizados:
 ## 🚗 Dashboard Operacional
 
 <p align="center">
- <img src="./imagens/dashboard.png" width="49%">
+ <img src="./Imagens/dashboard.png" width="49%">
 </p>
 
 ---
@@ -193,7 +193,7 @@ Foram utilizados:
 ## 📊 Dashboard de Previsão
 
 <p align="center">
-<img src="./imagens/previsao.png" width="80%">
+<img src="./Imagens/previsao.png" width="80%">
 </p>
 ---
 
