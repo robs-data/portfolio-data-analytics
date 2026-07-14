@@ -1,262 +1,122 @@
-<div align="center">
-# 🚗 Dashboard de Gestão para Empresa de Locação de Veículos
-### **Um projeto de Business Intelligence desenvolvido em Power BI para análise financeira, operacional e comercial de uma empresa de locação de veículos.**
+# 🚗 Projeto 01 - Controle de Locação de Veículos
 
-<img src="./Imagens/capa.png" width="100%">
+> Dashboard desenvolvido no **Power BI** para análise de indicadores operacionais e financeiros de uma empresa de locação de veículos.
 
-<br>
+## 📖 Sobre o Projeto
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-025E8C?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-0052CC?style=for-the-badge)
-![Data Analytics](https://img.shields.io/badge/Data_Analytics-FF6F00?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
+Este projeto foi desenvolvido com o objetivo de transformar dados de locações em informações estratégicas por meio de um dashboard interativo no Power BI.
 
-</div>
+Durante o desenvolvimento foram aplicadas técnicas de limpeza, transformação, modelagem e visualização de dados para facilitar a análise do desempenho da empresa.
 
-<br><br>
-
-<a href="https://app.powerbi.com/view?r=eyJrIjoiODE4NjhiODItNmI2OS00N2FhLTg2MWYtNDBjNWQ2MmNiOTQyIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9" target="_blank">
-
-<img src="https://img.shields.io/badge/🌐%20Visualizar%20Dashboard%20Online-118DFF?style=for-the-badge&logo=powerbi&logoColor=white">
-
-</a>
-
-&nbsp;&nbsp;
-
-<a href="./dashboard/Locacao-de-Veiculos.pbix">
-
-<img src="https://img.shields.io/badge/📥%20Download%20do%20Projeto%20(.pbix)-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-
-</a>
-
-</div>
-
-# 🔗 Arquivos do Projeto
-
-> **Projeto desenvolvido para fins educacionais utilizando dados fictícios.**
-
-- 📊 Dashboard desenvolvido no Power BI
-- 📁 Base de dados em Excel
-- 📈 Indicadores Estratégicos (KPIs)
-- 📷 Capturas do Dashboard
+Este projeto faz parte do meu portfólio de **Data Analytics**, demonstrando habilidades em Business Intelligence e análise de dados.
 
 ---
 
-# 📌 1. Resumo Executivo
+## 🎯 Objetivos
 
-Este projeto foi desenvolvido com o objetivo de simular um ambiente corporativo de uma empresa de locação de veículos, aplicando conceitos de Business Intelligence para transformar dados em informações estratégicas.
-
-O dashboard foi projetado para fornecer uma visão integrada das operações da empresa, permitindo acompanhar indicadores financeiros, desempenho da frota, comportamento dos clientes e projeções de crescimento.
-
-Todo o projeto foi desenvolvido utilizando boas práticas de modelagem de dados, construção de KPIs e visualização executiva.
+- Consolidar informações de locações.
+- Criar indicadores estratégicos (KPIs).
+- Analisar receitas e desempenho dos veículos.
+- Desenvolver um dashboard intuitivo e interativo.
+- Aplicar boas práticas de modelagem de dados.
 
 ---
 
-# 🏗️ 2. Arquitetura e Stack Tecnológica
-
-O projeto foi desenvolvido contemplando todas as etapas da análise de dados.
-
-### 📂 Fonte de Dados
-
-- Microsoft Excel
-- Base de dados fictícia
-
-### 🔄 ETL
-
-- Power Query
-- Tratamento de dados
-- Padronização
-- Limpeza de inconsistências
-
-### 📊 Modelagem
-
-- Modelo Estrela
-- Relacionamentos
-- Medidas DAX
-- KPIs
-
-### 📈 Visualização
+## 🛠️ Ferramentas Utilizadas
 
 - Power BI
-- Dashboards Executivos
-- Segmentações
-- Indicadores
-- Navegação entre páginas
+- Power Query
+- DAX
+- Excel
 
 ---
 
-# 🚀 3. Desenvolvimento do Projeto
+## 📊 Indicadores Desenvolvidos
 
-## 🔹 Modelagem dos Dados
-
-Foi realizada a modelagem do banco de dados utilizando relacionamentos entre tabelas para permitir uma análise consistente das informações.
-
-Também foram desenvolvidas medidas em DAX para cálculo de indicadores financeiros, operacionais e comerciais.
-
----
-
-## 🔹 Construção dos Indicadores
-
-Foram criados diversos KPIs para acompanhamento do desempenho da empresa, entre eles:
-
-- Receita Total
-- Receita Diária
-- Clientes Ativos
-- Clientes Inativos
-- Veículos Mais Rentáveis
-- Custos Operacionais
-- Quilometragem Total
-- Projeção de Vendas
+- 💰 Receita Total
+- 🚗 Quantidade de Locações
+- 📈 Ticket Médio
+- 👥 Receita por Cliente
+- 🚘 Receita por Veículo
+- 📂 Receita por Categoria
+- 📅 Evolução das Locações
+- 🏆 Ranking de Veículos
 
 ---
 
-## 🔹 Desenvolvimento do Dashboard
+## 🔄 Etapas do Projeto
 
-O dashboard foi desenvolvido seguindo princípios de Data Visualization, priorizando simplicidade, organização visual e facilidade de interpretação dos dados.
+### 1. Importação dos Dados
+- Carregamento da base de dados no Power BI.
 
-Foram utilizados:
+### 2. Tratamento dos Dados
+- Limpeza de registros.
+- Correção dos tipos de dados.
+- Padronização das informações.
 
-- Cartões (KPIs)
-- Gráficos de barras
-- Gráficos de linhas
-- Segmentações
-- Navegação entre páginas
-- Layout corporativo
+### 3. Modelagem
+- Criação do modelo relacional.
+- Organização das tabelas.
+- Definição dos relacionamentos.
 
----
+### 4. Criação das Medidas
+- Desenvolvimento de KPIs utilizando DAX.
 
-# 📊 4. Principais Indicadores
-
-## 💰 Financeiro
-
-- Faturamento anual
-- Receita diária
-- Evolução do faturamento
-- Receita por veículo
-
----
-
-## 👥 Clientes
-
-- Clientes ativos
-- Clientes inativos
-- Cadastro de clientes
-- Evolução da carteira
+### 5. Desenvolvimento do Dashboard
+- Construção de gráficos.
+- Cartões de indicadores.
+- Segmentações.
+- Layout interativo.
 
 ---
 
-## 🚙 Frota
+## 📷 Dashboard
 
-- Veículos mais lucrativos
-- Quilometragem total
-- Custos operacionais
-- Utilização da frota
-
----
-
-## 📈 Projeções
-
-- Projeção de vendas
-- Crescimento anual
-- Tendências do negócio
-
----
-
-# 🖥️ Dashboard
-
-## 🎯 Página Inicial
+### Visão Geral
 
 <p align="center">
-<img src="Imagens/capa.png" width="100%">
+
+<img src="./Imagens/dashboard.png">
+
 </p>
 
 ---
 
-## 📈 Dashboard de Clientes
+## 📚 Principais Aprendizados
 
-<p align="center">
-<img src="./Imagens/clientes.png" width="49%">
-</p>
+Durante este projeto pratiquei:
 
----
-
-## 🚗 Dashboard Operacional
-
-<p align="center">
- <img src="./Imagens/dashboard.png" width="49%">
-</p>
-
----
-
-## 📊 Dashboard de Previsão
-
-<p align="center">
-<img src="./Imagens/previsao.png" width="80%">
-</p>
----
-
-# 💡 6. Principais Insights
-
-A análise dos indicadores permite identificar rapidamente:
-
-- Evolução do faturamento da empresa.
-- Veículos com maior rentabilidade.
-- Perfil dos clientes ativos e inativos.
-- Custos operacionais da frota.
-- Tendências de crescimento para os próximos períodos.
+- Limpeza e transformação de dados.
+- Modelagem de dados.
+- Power Query.
+- Linguagem DAX.
+- Criação de KPIs.
+- Desenvolvimento de dashboards.
+- Storytelling com dados.
+- Boas práticas de Business Intelligence.
 
 ---
 
-# 📚 7. Competências Desenvolvidas
+## 🚀 Competências Demonstradas
 
-Durante o desenvolvimento deste projeto foram aplicados conhecimentos em:
-
-- Business Intelligence
 - Power BI
 - Power Query
 - DAX
 - Modelagem de Dados
-- ETL
-- Storytelling com Dados
-- Data Visualization
-- Construção de KPIs
+- Business Intelligence
+- Visualização de Dados
+- Análise Exploratória
+- Tratamento de Dados
 
 ---
 
-# 🎯 8. Objetivos Alcançados
+# 📬 Contato
 
-✔ Desenvolvimento de dashboard executivo
+**Robson Pereira Machado**
 
-✔ Construção de indicadores estratégicos
-
-✔ Aplicação de boas práticas em Business Intelligence
-
-✔ Modelagem de dados
-
-✔ Desenvolvimento de medidas DAX
-
-✔ Criação de visualizações executivas
+- 💼 LinkedIn: https://www.linkedin.com/in/robs-data/
+- 📧 Email: robsonp.mdo@gmail.com
 
 ---
 
-# 🎓 9. Contexto do Projeto
-
-Projeto desenvolvido durante os estudos em Power BI, com orientação do Professor Danilo Maciel (Yto Nihon Treinamentos).
-
-Todos os dados utilizados são fictícios e possuem finalidade exclusivamente educacional.
-
----
-
-<div align="center">
-
-## 👨‍💻 Autor
-
-### **Robson Pereira Machado**
-
-**Analista de Dados em Formação**
-
-Power BI • SQL • Python • Excel • Business Intelligence • Data Analytics
-
-</div>
+⭐ Se este projeto foi útil para você, deixe uma estrela no repositório!
