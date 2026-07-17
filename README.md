@@ -1,122 +1,187 @@
-# 🚗 Projeto 01 - Controle de Locação de Veículos
+<div align="center">
 
-> Dashboard desenvolvido no **Power BI** para análise de indicadores operacionais e financeiros de uma empresa de locação de veículos.
+# 📊 Portfólio de Data Analytics
 
-## 📖 Sobre o Projeto
+### Transformando dados em informações para apoiar decisões estratégicas.
 
-Este projeto foi desenvolvido com o objetivo de transformar dados de locações em informações estratégicas por meio de um dashboard interativo no Power BI.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=35B7F0&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+Portfólio+de+Data+Analytics;Power+BI+%7C+SQL+%7C+Excel+%7C+Python;Análise+de+Dados+e+Business+Intelligence" />
 
-Durante o desenvolvimento foram aplicadas técnicas de limpeza, transformação, modelagem e visualização de dados para facilitar a análise do desempenho da empresa.
-
-Este projeto faz parte do meu portfólio de **Data Analytics**, demonstrando habilidades em Business Intelligence e análise de dados.
+</div>
 
 ---
 
-## 🎯 Objetivos
+# 👋 Olá!
 
-- Consolidar informações de locações.
-- Criar indicadores estratégicos (KPIs).
-- Analisar receitas e desempenho dos veículos.
-- Desenvolver um dashboard intuitivo e interativo.
-- Aplicar boas práticas de modelagem de dados.
+Meu nome é **Robson Pereira Machado**.
+
+Este repositório reúne meus projetos desenvolvidos durante minha formação em **Data Analytics**, aplicando conceitos de:
+
+- 📊 Business Intelligence
+- 📈 Análise de Dados
+- 🗄 SQL
+- 📉 Power BI
+- 🐍 Python
+- 📋 Excel
+- 📑 Modelagem de Dados
+- 📊 Storytelling com Dados
+
+O objetivo deste portfólio é demonstrar minha evolução prática por meio de projetos completos, desde a preparação dos dados até a construção de dashboards e geração de insights para apoio à tomada de decisão.
 
 ---
 
-## 🛠️ Ferramentas Utilizadas
+# 🛠 Tecnologias
+
+| Ferramenta | Utilização |
+|------------|------------|
+| Power BI | Dashboards e KPIs |
+| SQL | Consultas e tratamento de dados |
+| Excel | Manipulação e análise |
+| Python | Limpeza e análise de dados |
+| Git | Versionamento |
+| GitHub | Portfólio |
+| DAX | Medidas e KPIs |
+| Power Query | ETL |
+
+---
+
+# 📂 Projetos
+
+## 🚗 Projeto 01 — Locadora de Veículos
+
+Dashboard desenvolvido para acompanhamento dos indicadores operacionais e financeiros de uma empresa de locação de veículos.
+
+### Principais análises
+
+- Receita
+- Clientes
+- Veículos
+- Contratos
+- Ticket Médio
+- Indicadores Operacionais
+
+**Tecnologias**
 
 - Power BI
-- Power Query
+- SQL
+- Excel
 - DAX
+- Power Query
+
+➡️ **Acesse o projeto:** `projeto-01-locadora-de-veiculos`
+
+---
+
+## 🛒 Projeto 02 — Análise de Vendas
+
+Análise dos indicadores comerciais com foco em faturamento, produtos, clientes e desempenho das vendas.
+
+**Tecnologias**
+
+- Power BI
+- SQL
 - Excel
 
----
-
-## 📊 Indicadores Desenvolvidos
-
-- 💰 Receita Total
-- 🚗 Quantidade de Locações
-- 📈 Ticket Médio
-- 👥 Receita por Cliente
-- 🚘 Receita por Veículo
-- 📂 Receita por Categoria
-- 📅 Evolução das Locações
-- 🏆 Ranking de Veículos
+➡️ **Acesse o projeto:** `projeto-02-analise-de-vendas`
 
 ---
 
-## 🔄 Etapas do Projeto
+## 📣 Projeto 03 — Marketing
 
-### 1. Importação dos Dados
-- Carregamento da base de dados no Power BI.
+Análise de campanhas, canais e indicadores de marketing para avaliação de desempenho.
 
-### 2. Tratamento dos Dados
-- Limpeza de registros.
-- Correção dos tipos de dados.
-- Padronização das informações.
-
-### 3. Modelagem
-- Criação do modelo relacional.
-- Organização das tabelas.
-- Definição dos relacionamentos.
-
-### 4. Criação das Medidas
-- Desenvolvimento de KPIs utilizando DAX.
-
-### 5. Desenvolvimento do Dashboard
-- Construção de gráficos.
-- Cartões de indicadores.
-- Segmentações.
-- Layout interativo.
+➡️ **Acesse o projeto:** `projeto-03-marketing`
 
 ---
 
-## 📷 Dashboard
+## 🎓 Projeto 04 — Universidade
 
-### Visão Geral
+Análise de dados acadêmicos utilizando técnicas de Business Intelligence.
+
+➡️ **Acesse o projeto:** `projeto-04-universidade`
+
+---
+
+## 🎫 Projeto 05 — Eventos
+
+Dashboard para análise de eventos, faturamento e indicadores operacionais.
+
+➡️ **Acesse o projeto:** `projeto-05-eventos`
+
+---
+
+## 🎬 Projeto 06 — Netflix
+
+Análise exploratória de dados do catálogo da Netflix com foco em visualização de dados e geração de insights.
+
+➡️ **Acesse o projeto:** `projeto-06-netflix`
+
+---
+
+# 📈 Competências Demonstradas
+
+- Business Intelligence
+- Data Analytics
+- Power BI
+- SQL
+- Python
+- Excel
+- ETL
+- DAX
+- Modelagem de Dados
+- Visualização de Dados
+- Storytelling com Dados
+- Git
+- GitHub
+
+---
+
+# 📚 Estrutura do Repositório
+
+```text
+portfolio-data-analytics
+│
+├── README.md
+│
+├── projeto-01-locadora-de-veiculos
+├── projeto-02-analise-de-vendas
+├── projeto-03-marketing
+├── projeto-04-universidade
+├── projeto-05-eventos
+└── projeto-06-netflix
+```
+
+---
+
+# 🎯 Objetivo
+
+Este portfólio foi criado para consolidar meus estudos e apresentar projetos práticos que demonstrem minhas habilidades em análise de dados, visualização e Business Intelligence.
+
+Cada projeto contém documentação própria, conjunto de dados, scripts, dashboards e os principais insights obtidos durante o desenvolvimento.
+
+---
+
+# 📫 Contato
 
 <p align="center">
 
-<img src="./Imagens/dashboard.png">
+<a href="https://www.linkedin.com/in/robs-data/">
 
-</p>
+<img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
----
+</a>
 
-## 📚 Principais Aprendizados
+<a href="mailto:robsonp.mdo@gmail.com">
 
-Durante este projeto pratiquei:
+<img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 
-- Limpeza e transformação de dados.
-- Modelagem de dados.
-- Power Query.
-- Linguagem DAX.
-- Criação de KPIs.
-- Desenvolvimento de dashboards.
-- Storytelling com dados.
-- Boas práticas de Business Intelligence.
+</a>
 
 ---
 
-## 🚀 Competências Demonstradas
+<div align="center">
 
-- Power BI
-- Power Query
-- DAX
-- Modelagem de Dados
-- Business Intelligence
-- Visualização de Dados
-- Análise Exploratória
-- Tratamento de Dados
+### ⭐ Obrigado por visitar meu portfólio!
 
----
+Se algum projeto chamou sua atenção, fique à vontade para explorar os repositórios e acompanhar minha evolução.
 
-# 📬 Contato
-
-**Robson Pereira Machado**
-
-- 💼 LinkedIn: https://www.linkedin.com/in/robs-data/
-- 📧 Email: robsonp.mdo@gmail.com
-
----
-
-⭐ Se este projeto foi útil para você, deixe uma estrela no repositório!
+</div>
