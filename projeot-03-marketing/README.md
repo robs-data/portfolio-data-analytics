@@ -7,6 +7,23 @@
 
 ---
 
+## 📊 Dashboard Interativo
+
+Clique no botão abaixo para acessar o dashboard completo e interagir com os filtros e indicadores:
+
+<p align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiODZmYzM5NmEtZDdhYy00NzRhLTg2MzctYzQzM2E4OWM5YTAwIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Acessar%20Dashboard%20Interativo-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Acessar Dashboard Power BI">
+  </a>
+</p>
+
+### 📸 Preview do Dashboard
+
+<p align="center">
+  <img src="./imagens/LOGIN.png" alt="Dashboard de Análise de Marketing" width="900">
+</p>
+
+
 ## 📌 Sobre o Projeto
 
 Este projeto apresenta o desenvolvimento de um **Dashboard de Análise de Marketing utilizando Power BI**, com foco no acompanhamento do desempenho de campanhas, investimentos em anúncios e valores convertidos em vendas.
