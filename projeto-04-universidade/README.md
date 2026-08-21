@@ -703,43 +703,43 @@ projeto-04-universidade/
 
 > Adicione aqui a imagem da página inicial do dashboard.
 
-```markdown
+markdown
 <p align="center">
   <img src="imagens/capa.png" width="900">
 </p>
-```
+
 
 ### 🏫 Campus
 
-```markdown
+markdown
 <p align="center">
   <img src="imagens/campus.png" width="900">
 </p>
-```
+
 
 ### 👥 Alunos
 
-```markdown
+markdown
 <p align="center">
   <img src="imagens/alunos.png" width="900">
 </p>
-```
+
 
 ### 💰 Financeiro
 
-```markdown
+markdown
 <p align="center">
   <img src="imagens/financeiro.png" width="900">
 </p>
-```
+
 
 ### 📊 Geral
 
-```markdown
+markdown
 <p align="center">
   <img src="imagens/geral.png" width="900">
 </p>
-```
+
 
 ---
 
