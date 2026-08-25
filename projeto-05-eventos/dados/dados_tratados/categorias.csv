@@ -1,0 +1,5 @@
+id_categoria,categoria,visao
+400,ABERTO,Custo baixo
+401,FECHADO,Custo baixo
+402,VENDA SOB DEMANDA,Custo Alto
+403,CONVIDADOS,Custo Alto

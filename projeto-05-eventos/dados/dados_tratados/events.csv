@@ -1,0 +1,457 @@
+data_evento,id_empresa,tipo_evento,pagamento,total_participantes,cobertura,coordenador,valor_faturado,royalties,desconto_contratante,contratante,categoria
+2017-01-02,15, Fórum de Tecnologia,50% PAGO,1268, Daily Chronicle,Marcelo Mendes,102150.0,20430.0,2043.0,Johnson Enterprises,402
+2017-01-02,20, Fórum de Tecnologia,50% PAGO,299, News Wave,Natalia Silva,108310.0,16246.5,0.0,Coleman Holdings,401
+2017-01-03,2, Competição Esportiva,50% PAGO,1136, The Urban Tribune,Vilma Soares,113362.5,17004.375,2267.25,Não Cadastrado,400
+2017-01-03,19, Competição Esportiva,SIM,328, City Newsline,Geraldo Pereira,109048.0,16357.199999999999,0.0,Coleman Holdings,401
+2017-01-04,12, Fórum de Tecnologia,NÃO,392, City Newsline,Geraldo Pereira,,0.0,0.0,Reed Corporation,401
+2017-01-04,15,Festival Cultural,SIM,754, Community Digest,Natalia Silva,72161.5,10824.225,1443.23,Ortiz Enterprises,401
+2017-01-05,7, Evento Beneficente,NÃO,380,O Globo,Marcelo Mendes,,0.0,0.0,Lewis Enterprises,401
+2017-01-05,19,Feira de Negócios,NÃO,1075, City Pulse,Marcelo Mendes,,0.0,0.0,Coleman Group,402
+2017-01-05,12,Seminário de Desenvolvimento Pessoal,SIM,1223, The Information Digest,Natalia Silva,37798.5,5669.775,755.97,Coleman Holdings,400
+2017-01-05,5, Convenção Empresarial,SIM,448, Express News,Geraldo Pereira,28089.0,4213.349999999999,0.0,Allen & Co,401
+2017-01-05,3,Feira de Negócios,SIM,1089, Urban Update,Geraldo Pereira,106264.0,15939.599999999999,2125.28,Brown & Co,400
+2017-01-05,2,Seminário de Desenvolvimento Pessoal,50% PAGO,394, The Informational Herald,Geraldo Pereira,64466.0,9669.9,1289.32,Coleman Holdings,401
+2017-01-05,3,Gala de Premiação,NÃO,396, Metro Tribune,Vilma Soares,,0.0,0.0,Smith Corporation,402
+2017-01-05,15,Exposição de Arte,50% PAGO,1304, Local Times,Geraldo Pereira,103963.0,15594.449999999999,2079.26,Perry Group,403
+2017-01-05,20, Feira Gastronômica,SIM,1110, City News Now,Natalia Silva,143579.5,21536.925,0.0,Brown & Co,401
+2017-01-07,8, Encontro de Networking,50% PAGO,614, Urban Update,Natalia Silva,68205.0,10230.75,1364.1000000000001,Não Informado,401
+2017-01-07,7,Conferência Internacional,50% PAGO,1297,Yahoo,Vilma Soares,107373.0,16105.949999999999,2147.46,Morgan Holdings,400
+2017-01-08,19, Convenção Empresarial,NÃO,1208, Daily Chronicle,Marcelo Mendes,,0.0,0.0,Coleman Holdings,400
+2017-01-08,16, Convenção Empresarial,NÃO,484, Community Chronicle,Geraldo Pereira,,0.0,0.0,Martinez Corporation,400
+2017-01-08,8, Convenção Empresarial,NÃO,1314, News Beat,Marcelo Mendes,,0.0,0.0,Turner Corporation,402
+2017-01-08,9, Lançamento de Produto,50% PAGO,688, Global News Network,Marcelo Mendes,49530.5,7429.575,0.0,Coleman Holdings,403
+2017-01-08,7, Lançamento de Produto,50% PAGO,1196, City Sun,Geraldo Pereira,64675.0,9701.25,1293.5,Sanchez Holdings,401
+2017-01-08,7,Concerto ao Ar Livre,NÃO,194, Express News,Marcelo Mendes,,0.0,0.0,Não Cadastrado,403
+2017-01-08,6, Lançamento de Produto,NÃO,1052, News Hub,Geraldo Pereira,,0.0,0.0,Coleman Holdings,400
+2017-01-09,4, Lançamento de Produto,SIM,1297, News Hub,Geraldo Pereira,69976.0,10496.4,0.0,Coleman Holdings,400
+2017-01-10,5,Congresso Científico,SIM,657, Urban Herald,Natalia Silva,119328.0,17899.2,2386.56,Cook & Sons,402
+2017-01-10,2, Fórum de Tecnologia,50% PAGO,1091, Metro Monitor,Geraldo Pereira,75487.0,11323.05,1509.74,Morgan Holdings,403
+2017-01-10,2,Exposição de Arte,50% PAGO,306, City Digest,Marcelo Mendes,68782.0,10317.3,1375.64,Coleman Holdings,402
+2017-01-10,2, Fórum de Tecnologia,NÃO,1147, City Buzz,Marcelo Mendes,,0.0,0.0,Gonzalez Group,402
+2017-01-10,8,Feira de Negócios,NÃO,1300, City Scope,Marcelo Mendes,,0.0,0.0,Mitchell Enterprises,403
+2017-01-10,17, Encontro de Networking,NÃO,720, Community Digest,Marcelo Mendes,,0.0,0.0,Walker Partners,403
+2017-01-10,15, Fórum de Tecnologia,NÃO,339, The Insightful Gazette,Geraldo Pereira,,0.0,0.0,Evans Enterprises,403
+2017-01-10,13, Casamento de Luxo,50% PAGO,782, Trend Watcher,Geraldo Pereira,141582.0,21237.3,0.0,Anderson & Sons,400
+2017-01-10,17,Congresso Científico,50% PAGO,1076, Metro Tribune,Vilma Soares,72300.0,10845.0,1446.0,Coleman Holdings,402
+2017-01-10,20,Seminário de Desenvolvimento Pessoal,50% PAGO,122,Estadão,Vilma Soares,101506.0,15225.9,2030.1200000000001,Walker Partners,402
+2017-01-10,19, Jantar de Gala,50% PAGO,325, The Daily Bulletin,Vilma Soares,63533.0,9529.949999999999,0.0,Coleman Holdings,402
+2017-01-10,17,Festival Cultural,50% PAGO,723, The Daily Bulletin,Vilma Soares,50839.0,7625.849999999999,1016.78,Murphy Corporation,400
+2017-01-10,17, Lançamento de Produto,NÃO,998, City Buzz,Marcelo Mendes,,0.0,0.0,Nelson Corporation,400
+2017-01-12,7, Lançamento de Produto,SIM,1037, Community Chronicle,Marcelo Mendes,19895.5,2984.325,397.91,Clark Corporation,401
+2017-01-12,9, Lançamento de Produto,50% PAGO,448,Rede TV New (site),Marcelo Mendes,52280.0,7842.0,0.0,Johnson Enterprises,400
+2017-01-12,16,Workshop de Fotografia,SIM,351,Estadão,Marcelo Mendes,10993.5,1649.0249999999999,219.87,Walker Partners,403
+2017-01-12,14,Festival Cultural,NÃO,1192, Local Lens,Marcelo Mendes,,0.0,0.0,Ortiz Enterprises,401
+2017-01-12,8,Gala de Premiação,SIM,180, News Flash,Vilma Soares,50795.0,7619.25,0.0,Ortiz Enterprises,401
+2017-01-12,15,Exposição de Arte,SIM,76, Metro Tribune,Vilma Soares,15192.5,2278.875,303.85,Hall Corporation,402
+2017-01-12,3, Jantar de Gala,50% PAGO,1171, News Hub,Natalia Silva,67429.0,10114.35,0.0,Coleman Holdings,403
+2017-01-12,10, Lançamento de Produto,NÃO,169, Voice of the City,Natalia Silva,,0.0,0.0,Collins Corporation,401
+2017-01-12,8,Concerto ao Ar Livre,50% PAGO,285, The Insightful Gazette,Marcelo Mendes,102254.5,15338.175,2045.0900000000001,Coleman Holdings,400
+2017-01-12,4, Show de Comédia,50% PAGO,1314, Metro Herald,Marcelo Mendes,66968.0,10045.199999999999,1339.3600000000001,Lewis Enterprises,401
+2017-01-12,19, Feira Gastronômica,50% PAGO,585, Insightful Observer,Marcelo Mendes,12014.0,1802.1,240.28,Murphy Corporation,403
+2017-01-12,8, Casamento de Luxo,50% PAGO,777,O Globo,Marcelo Mendes,33267.5,4990.125,0.0,Allen & Co,400
+2017-01-12,14, Encontro de Networking,NÃO,1268, Global News Network,Geraldo Pereira,,0.0,0.0,Turner Corporation,403
+2017-01-12,2,Workshop de Fotografia,SIM,205, The Press Agency,Geraldo Pereira,81920.0,12288.0,1638.4,Smith Corporation,403
+2017-01-12,20, Desfile de Moda,50% PAGO,591, Insightful Observer,Vilma Soares,43590.0,6538.5,871.8000000000001,Hayes Holdings,402
+2017-01-12,16, Desfile de Moda,50% PAGO,109, City Newsline,Natalia Silva,96272.0,14440.8,0.0,Não Cadastrado,401
+2017-01-28,16,Gala de Premiação,50% PAGO,940, The City Voice,Marcelo Mendes,52158.0,7823.7,0.0,Phillips & Sons,400
+2017-01-28,14, Fórum de Tecnologia,SIM,893, Urban Update,Geraldo Pereira,76028.5,11404.275,1520.57,Coleman Holdings,401
+2017-01-28,18, Encontro de Networking,SIM,211, Metro Tribune,Marcelo Mendes,74128.5,11119.275,1482.57,Collins Corporation,400
+2017-01-28,5,Festival Cultural,SIM,1300, Community Chronicle,Geraldo Pereira,36154.5,5423.175,723.09,Morris Enterprises,402
+2017-01-28,12, Competição Esportiva,NÃO,53, Media Monitor,Vilma Soares,,0.0,0.0,Sanchez Holdings,402
+2017-01-28,12, Show de Comédia,50% PAGO,679, People's Gazette,Geraldo Pereira,73750.0,11062.5,1475.0,Jones Partners,400
+2017-01-29,14, Fórum de Tecnologia,NÃO,956, The Communicator,Vilma Soares,,0.0,0.0,Não Cadastrado,403
+2017-02-05,19, Show de Comédia,NÃO,339, Media Matters,Vilma Soares,,0.0,0.0,Nelson Corporation,401
+2017-02-05,7,Festival Cultural,50% PAGO,383, Metro Monitor,Marcelo Mendes,26094.5,3914.1749999999997,521.89,Rodriguez Group,403
+2017-02-05,19, Jantar de Gala,50% PAGO,1088,O Globo,Vilma Soares,63882.5,9582.375,0.0,Evans Enterprises,401
+2017-02-05,5, Evento Beneficente,NÃO,477, The Daily Echo,Natalia Silva,,0.0,0.0,Coleman Holdings,402
+2017-02-05,14, Desfile de Moda,NÃO,533, Metro Messenger,Geraldo Pereira,,0.0,0.0,Perez Holdings,403
+2017-02-05,20,Exposição de Arte,50% PAGO,87, Media Pulse,Vilma Soares,74695.5,11204.324999999999,1493.91,Coleman Holdings,403
+2017-02-05,12,Concerto ao Ar Livre,SIM,1156, Urban Chronicle,Marcelo Mendes,77000.0,11550.0,1540.0,Martinez Corporation,400
+2017-02-05,5,Conferência Internacional,NÃO,1212, News Beat,Geraldo Pereira,,0.0,0.0,Adams Holdings,403
+2017-02-05,14,Gala de Premiação,NÃO,1296, City Newsline,Geraldo Pereira,,0.0,0.0,Collins Corporation,403
+2017-02-05,7, Fórum de Tecnologia,50% PAGO,152, Urban Herald,Natalia Silva,34344.0,5151.599999999999,686.88,Cooper Enterprises,401
+2017-02-05,13,Gala de Premiação,50% PAGO,843, Urban Update,Geraldo Pereira,15848.0,2377.2,0.0,Coleman Holdings,401
+2017-02-05,5,Workshop de Fotografia,SIM,1039, Trend Watcher,Geraldo Pereira,12137.0,1820.55,242.74,Anderson & Sons,401
+2017-02-21,12, Jantar de Gala,50% PAGO,854, Express News,Geraldo Pereira,72871.0,10930.65,0.0,Hall Corporation,401
+2017-02-21,17, Competição Esportiva,SIM,1197, The Press Agency,Marcelo Mendes,93398.5,14009.775,1867.97,Sanchez Holdings,400
+2017-02-21,6,Festival Cultural,SIM,447, The Daily Insight,Vilma Soares,144636.5,21695.475,2892.73,Rogers Group,400
+2017-02-21,18,Conferência Internacional,50% PAGO,1184, The News Gazette,Marcelo Mendes,108466.0,16269.9,0.0,Williams Industries,403
+2017-02-22,5,Congresso Científico,SIM,1095, Metro Herald,Marcelo Mendes,92909.5,13936.425,1858.19,Edwards Group,401
+2017-02-22,1, Desfile de Moda,50% PAGO,569, The Update,Geraldo Pereira,83660.0,12549.0,1673.2,Lewis Enterprises,401
+2017-02-22,1, Encontro de Networking,NÃO,653,Jornal Folha,Marcelo Mendes,,0.0,0.0,Nelson Corporation,402
+2017-02-22,17, Lançamento de Produto,50% PAGO,58, Insightful Times,Marcelo Mendes,92160.0,13824.0,1843.2,Rivera Holdings,403
+2017-02-22,16, Competição Esportiva,NÃO,259, City Sun,Marcelo Mendes,,0.0,0.0,Gray Enterprises,401
+2017-02-22,20,Festival Cultural,NÃO,517, City Pulse,Natalia Silva,,0.0,0.0,Não Cadastrado,401
+2017-02-22,15, Encontro de Networking,SIM,1308, The Daily Bulletin,Marcelo Mendes,30145.5,4521.825,602.91,Davis Holdings,403
+2017-02-22,14,Feira de Negócios,50% PAGO,737, Urban Herald,Natalia Silva,101075.0,15161.25,2021.5,Não Cadastrado,402
+2017-02-22,15, Show de Comédia,SIM,612, Voice of the City,Marcelo Mendes,134252.5,20137.875,2685.05,Coleman Holdings,403
+2017-02-22,5,Conferência Internacional,SIM,918, Express News,Marcelo Mendes,136901.5,20535.225,0.0,Brown & Co,403
+2017-02-22,20,Workshop de Fotografia,50% PAGO,458, Urban Herald,Marcelo Mendes,123999.0,18599.85,2479.98,Scott Corporation,400
+2017-02-22,10, Show de Comédia,50% PAGO,1211, News Flash,Geraldo Pereira,84153.0,12622.949999999999,0.0,Rodriguez Group,400
+2017-02-22,17,Exposição de Arte,NÃO,1306, News Flash,Vilma Soares,,0.0,0.0,Coleman Holdings,402
+2017-02-22,17, Show de Comédia,NÃO,384, News Hub,Marcelo Mendes,,0.0,0.0,Cooper Enterprises,403
+2017-02-22,14,Gala de Premiação,SIM,71, Prime Times,Geraldo Pereira,20247.0,3037.0499999999997,0.0,Coleman Holdings,400
+2017-02-22,4,Feira de Negócios,50% PAGO,927, Media Spotlight,Vilma Soares,35369.5,5305.425,707.39,Phillips & Sons,403
+2017-02-22,18, Convenção Empresarial,NÃO,378, Media Monitor,Vilma Soares,,0.0,0.0,Coleman Holdings,402
+2017-02-22,2, Convenção Empresarial,NÃO,928, News Flash,Marcelo Mendes,,0.0,0.0,Phillips & Sons,400
+2017-02-22,7, Feira Gastronômica,SIM,1017, Community Digest,Marcelo Mendes,125222.0,18783.3,2504.44,Rogers Group,402
+2017-02-22,16,Festival Cultural,50% PAGO,991, The Informational Herald,Marcelo Mendes,108533.0,16279.949999999999,2170.66,Mitchell Enterprises,403
+2017-02-22,9,Congresso Científico,NÃO,754,Yahoo,Vilma Soares,,0.0,0.0,Turner Corporation,402
+2017-02-22,14,Workshop de Fotografia,50% PAGO,76, The Daily Insight,Geraldo Pereira,129162.0,19374.3,2583.2400000000002,Não Cadastrado,401
+2017-02-22,5, Jantar de Gala,SIM,395, Prime Times,Vilma Soares,147829.5,22174.425,0.0,Ross Corporation,400
+2017-02-23,18,Concerto ao Ar Livre,50% PAGO,338, Urban Update,Natalia Silva,110112.0,16516.8,2202.2400000000002,Green & Co,401
+2017-02-23,1,Feira de Negócios,50% PAGO,158, Local Lens,Natalia Silva,149027.5,22354.125,2980.55,Garcia Enterprises,403
+2017-02-23,3,Congresso Científico,50% PAGO,784, Insightful Times,Geraldo Pereira,82468.0,12370.199999999999,1649.3600000000001,Johnson Enterprises,402
+2017-02-23,1, Fórum de Tecnologia,50% PAGO,1082, Urban Herald,Natalia Silva,102448.5,15367.275,2048.9700000000003,Morgan Holdings,402
+2017-02-23,3,Festival Cultural,NÃO,1053, Daily Chronicle,Marcelo Mendes,,0.0,0.0,Não Informado,400
+2017-02-23,5,Feira de Negócios,NÃO,626, Local Lens,Natalia Silva,,0.0,0.0,Rodriguez Group,401
+2017-02-23,4, Casamento de Luxo,SIM,365, The Insightful Gazette,Vilma Soares,117687.0,17653.05,0.0,Green & Co,403
+2017-02-23,16, Lançamento de Produto,NÃO,301, Metro Messenger,Marcelo Mendes,,0.0,0.0,Carter & Co,402
+2017-02-23,14,Feira de Negócios,50% PAGO,548, The Urban Observer,Vilma Soares,13741.0,2061.15,274.82,Ortiz Enterprises,400
+2017-02-23,9, Fórum de Tecnologia,50% PAGO,251, Urban Update,Geraldo Pereira,53864.0,8079.599999999999,1077.28,Russell & Co,402
+2017-02-23,9, Evento Beneficente,NÃO,258, The City Voice,Natalia Silva,,0.0,0.0,Russell & Co,401
+2017-02-23,15,Seminário de Desenvolvimento Pessoal,50% PAGO,500, Community Digest,Marcelo Mendes,141144.5,21171.675,2822.89,Coleman Holdings,403
+2017-02-23,15, Competição Esportiva,SIM,438, Media Express,Geraldo Pereira,126208.5,18931.274999999998,2524.17,Hernandez Group,401
+2017-02-23,13,Workshop de Fotografia,SIM,872, Media Tracker,Geraldo Pereira,10587.5,1588.125,211.75,Não Cadastrado,401
+2017-02-23,4, Fórum de Tecnologia,SIM,1292, Express News,Vilma Soares,59839.0,8975.85,0.0,Stewart & Co,402
+2017-02-23,15, Show de Comédia,SIM,764, The Daily Insight,Natalia Silva,50617.5,7592.625,1012.35,Ortiz Enterprises,401
+2017-02-23,8, Casamento de Luxo,NÃO,383, Local Lens,Geraldo Pereira,,0.0,0.0,Reed Corporation,403
+2017-02-23,12, Casamento de Luxo,50% PAGO,680, The Communicator,Natalia Silva,105654.0,15848.099999999999,0.0,Rivera Holdings,402
+2017-02-23,16, Show de Comédia,50% PAGO,166,O Globo,Geraldo Pereira,102503.0,15375.449999999999,2050.06,Johnson Enterprises,402
+2017-02-23,4,Festival Cultural,50% PAGO,336, The Daily Insight,Marcelo Mendes,51399.0,7709.849999999999,1027.98,Bennett Holdings,403
+2017-02-23,7, Encontro de Networking,NÃO,362, The Daily Echo,Geraldo Pereira,,0.0,0.0,Coleman Holdings,402
+2017-02-23,3, Competição Esportiva,50% PAGO,214, Media Express,Natalia Silva,58312.0,8746.8,1166.24,Allen & Co,401
+2017-02-23,8, Encontro de Networking,SIM,715, Media Pulse,Natalia Silva,46936.0,7040.4,938.72,Anderson & Sons,402
+2017-02-23,5, Fórum de Tecnologia,SIM,1223,Veja,Natalia Silva,30921.0,4638.15,618.42,Coleman Holdings,403
+2017-02-23,20, Jantar de Gala,NÃO,1099, Media Maven,Vilma Soares,,0.0,0.0,Coleman Holdings,403
+2017-02-23,15,Conferência Internacional,NÃO,812, Community Chronicle,Geraldo Pereira,,0.0,0.0,Taylor Group,402
+2017-02-23,20, Jantar de Gala,SIM,466, Info Stream,Natalia Silva,106663.0,15999.449999999999,0.0,Anderson & Sons,401
+2017-02-23,9,Workshop de Fotografia,SIM,581, Metro Tribune,Marcelo Mendes,261607.0,39241.049999999996,5232.14,Evans Enterprises,403
+2017-02-23,7, Convenção Empresarial,50% PAGO,1188, Insightful Observer,Vilma Soares,280250.0,42037.5,5605.0,Collins Corporation,403
+2017-02-23,9,Feira de Negócios,50% PAGO,756, Prime Times,Marcelo Mendes,108625.0,16293.75,2172.5,Perez Holdings,402
+2017-02-23,5,Concerto ao Ar Livre,50% PAGO,782, Media Tracker,Geraldo Pereira,54753.0,8212.949999999999,1095.06,Coleman Holdings,400
+2017-02-23,15, Feira Gastronômica,NÃO,392, The Information Hub,Geraldo Pereira,,0.0,0.0,Rivera Holdings,400
+2017-02-23,5, Lançamento de Produto,NÃO,876, The Information Hub,Geraldo Pereira,,0.0,0.0,Cook & Sons,401
+2017-02-23,13, Convenção Empresarial,50% PAGO,865, The Information Digest,Vilma Soares,108311.0,16246.65,2166.2200000000003,Coleman Holdings,402
+2017-02-23,5,Seminário de Desenvolvimento Pessoal,50% PAGO,1146,Veja,Marcelo Mendes,63410.0,9511.5,1268.2,Coleman Holdings,402
+2017-02-23,4, Fórum de Tecnologia,50% PAGO,857, Info Stream,Natalia Silva,116365.0,17454.75,2327.3,Nelson & Sons,403
+2017-02-23,17, Fórum de Tecnologia,NÃO,724, News Hub,Geraldo Pereira,,0.0,0.0,Não Cadastrado,401
+2017-02-23,20, Casamento de Luxo,NÃO,159, Urban Express,Natalia Silva,,0.0,0.0,Coleman Holdings,401
+2017-02-23,12,Congresso Científico,NÃO,328, The Informational Herald,Natalia Silva,,0.0,0.0,Bailey & Co,402
+2017-02-23,20,Feira de Negócios,SIM,487, The Update,Geraldo Pereira,74960.0,11244.0,1499.2,Gonzalez Group,401
+2017-02-23,19, Competição Esportiva,SIM,421, City Digest,Vilma Soares,290815.0,43622.25,5816.3,Não Cadastrado,402
+2017-02-23,8, Convenção Empresarial,SIM,1294, Newsline Journal,Natalia Silva,95700.0,14355.0,0.0,Coleman Holdings,402
+2017-02-24,17, Show de Comédia,NÃO,445, Media Matters,Vilma Soares,,0.0,0.0,Não Cadastrado,400
+2017-02-24,17, Desfile de Moda,NÃO,1081, City Digest,Marcelo Mendes,,0.0,0.0,Não Cadastrado,403
+2017-02-24,7,Feira de Negócios,50% PAGO,535,Estadão,Natalia Silva,109735.0,16460.25,2194.7000000000003,Coleman Holdings,400
+2017-02-24,4,Exposição de Arte,50% PAGO,626, The Daily Echo,Vilma Soares,204457.0,30668.55,4089.14,Young Holdings,400
+2017-02-24,4, Desfile de Moda,NÃO,352, Prime Times,Marcelo Mendes,,0.0,0.0,Não Cadastrado,400
+2017-02-24,2, Casamento de Luxo,50% PAGO,937, Global News Network,Marcelo Mendes,280181.0,42027.15,0.0,Bailey & Co,401
+2017-02-24,3,Festival Cultural,50% PAGO,570, Community Chronicle,Geraldo Pereira,68157.0,10223.55,1363.14,Roberts Partners,402
+2017-02-24,14,Workshop de Fotografia,50% PAGO,800, Insightful Observer,Vilma Soares,173335.0,26000.25,3466.7000000000003,Não Cadastrado,401
+2017-02-24,19,Concerto ao Ar Livre,SIM,753, People's Gazette,Marcelo Mendes,51691.0,7753.65,1033.82,Jones Partners,403
+2017-02-24,15, Evento Beneficente,SIM,839, The Daily Insight,Geraldo Pereira,231112.0,34666.799999999996,4622.24,Taylor Group,403
+2017-02-24,7, Show de Comédia,NÃO,601, The Daily Echo,Vilma Soares,,0.0,0.0,Morris Enterprises,400
+2017-02-24,5, Jantar de Gala,50% PAGO,297, The Daily Report,Vilma Soares,82730.0,12409.5,0.0,Hall Corporation,400
+2017-02-24,12, Evento Beneficente,50% PAGO,631,O Globo,Vilma Soares,250294.0,37544.1,5005.88,Sanchez Holdings,401
+2017-02-24,19, Convenção Empresarial,50% PAGO,728, Insight Today,Geraldo Pereira,273222.0,40983.299999999996,5464.4400000000005,Green & Co,401
+2017-02-24,13, Feira Gastronômica,50% PAGO,367, News Flash,Geraldo Pereira,71512.0,10726.8,0.0,Wright Enterprises,403
+2017-02-24,12, Show de Comédia,50% PAGO,787, Media Matters,Marcelo Mendes,89261.0,13389.15,1785.22,Não Cadastrado,402
+2017-02-24,9, Feira Gastronômica,50% PAGO,854, Newsline Journal,Geraldo Pereira,50420.0,7563.0,0.0,Não Cadastrado,401
+2017-02-24,11,Gala de Premiação,NÃO,866, Media Express,Geraldo Pereira,,0.0,0.0,Phillips & Sons,403
+2017-02-24,3,Exposição de Arte,NÃO,658, News Flash,Marcelo Mendes,,0.0,0.0,Ortiz Enterprises,403
+2017-02-24,15,Concerto ao Ar Livre,50% PAGO,643, Info Stream,Natalia Silva,74947.0,11242.05,1498.94,Martinez Corporation,403
+2017-02-24,12, Desfile de Moda,NÃO,587, Media Monitor,Vilma Soares,,0.0,0.0,Rivera Holdings,401
+2017-02-24,9, Jantar de Gala,NÃO,658, City Sun,Natalia Silva,,0.0,0.0,Turner Corporation,402
+2017-02-24,5,Seminário de Desenvolvimento Pessoal,50% PAGO,917, Local Times,Geraldo Pereira,172695.0,25904.25,3453.9,Ross Corporation,402
+2017-02-24,7, Competição Esportiva,SIM,1053, Community Digest,Geraldo Pereira,107330.0,16099.5,2146.6,Foster Corporation,400
+2017-02-24,3,Conferência Internacional,SIM,141, The Information Hub,Geraldo Pereira,41023.0,6153.45,820.46,Coleman Holdings,402
+2017-02-24,17, Lançamento de Produto,NÃO,462, The Daily Bulletin,Natalia Silva,,0.0,0.0,Coleman Holdings,402
+2017-02-24,5,Festival Cultural,50% PAGO,410,Yahoo,Marcelo Mendes,59142.0,8871.3,1182.84,Murphy Corporation,401
+2017-02-24,19,Festival Cultural,50% PAGO,927, Insightful Times,Vilma Soares,58914.0,8837.1,1178.28,Foster Corporation,400
+2017-02-24,18,Seminário de Desenvolvimento Pessoal,50% PAGO,661, News Wave,Geraldo Pereira,98148.0,14722.199999999999,0.0,Coleman Holdings,402
+2017-02-24,9,Festival Cultural,50% PAGO,649, Media Monitor,Geraldo Pereira,147553.0,22132.95,2951.06,Coleman Holdings,401
+2017-02-24,12, Encontro de Networking,50% PAGO,1303, City Scope,Vilma Soares,62874.0,9431.1,1257.48,Stewart & Co,402
+2017-02-24,8, Casamento de Luxo,SIM,935, Insightful Observer,Natalia Silva,61704.0,9255.6,0.0,Coleman Holdings,402
+2017-02-24,11, Competição Esportiva,50% PAGO,50, The Informational Herald,Geraldo Pereira,95026.0,14253.9,1900.52,Não Cadastrado,401
+2017-02-24,16, Fórum de Tecnologia,50% PAGO,271, Prime Times,Vilma Soares,77753.0,11662.949999999999,1555.06,Rivera Holdings,402
+2017-02-24,12, Convenção Empresarial,50% PAGO,87, Insightful Observer,Natalia Silva,202427.0,30364.05,4048.54,Não Informado,402
+2017-02-24,6,Seminário de Desenvolvimento Pessoal,50% PAGO,910, Voice of the City,Geraldo Pereira,90746.0,13611.9,1814.92,Wright Enterprises,403
+2017-02-24,10,Workshop de Fotografia,SIM,263, Prime Times,Vilma Soares,131691.0,19753.649999999998,2633.82,Coleman Holdings,403
+2017-02-24,19, Fórum de Tecnologia,SIM,239, City News Now,Marcelo Mendes,197143.0,29571.449999999997,0.0,Green & Co,403
+2017-02-24,19,Festival Cultural,50% PAGO,560, City Scope,Natalia Silva,60857.0,9128.55,1217.14,Anderson & Sons,403
+2017-02-24,20,Workshop de Fotografia,NÃO,1074, City News Now,Natalia Silva,,0.0,0.0,Edwards Group,400
+2017-02-24,4, Convenção Empresarial,NÃO,778, Urban Express,Geraldo Pereira,,0.0,0.0,Não Cadastrado,401
+2017-02-24,17, Casamento de Luxo,50% PAGO,973, Media Tracker,Vilma Soares,90064.0,13509.6,0.0,Jones Partners,400
+2017-02-24,5, Feira Gastronômica,NÃO,335, Info Stream,Natalia Silva,,0.0,0.0,Hernandez Group,400
+2017-02-24,7, Evento Beneficente,SIM,650, The Urban Tribune,Geraldo Pereira,65492.0,9823.8,1309.84,Coleman Holdings,401
+2017-02-24,7,Exposição de Arte,50% PAGO,562, The Daily Echo,Vilma Soares,277257.0,41588.549999999996,5545.14,Rodriguez Group,403
+2017-02-24,12, Evento Beneficente,SIM,1192, City News Now,Natalia Silva,225027.0,33754.049999999996,0.0,Reed Corporation,400
+2017-02-24,13, Competição Esportiva,50% PAGO,478, News Wave,Geraldo Pereira,237967.0,35695.049999999996,0.0,Davis Holdings,400
+2017-02-24,6, Casamento de Luxo,SIM,333, Metro Monitor,Geraldo Pereira,110225.0,16533.75,0.0,Hall Corporation,403
+2017-02-24,16,Exposição de Arte,50% PAGO,1004, City Buzz,Marcelo Mendes,56168.0,8425.199999999999,1123.3600000000001,Wilson Industries,400
+2017-02-24,9,Seminário de Desenvolvimento Pessoal,SIM,892, Prime Times,Marcelo Mendes,48177.0,7226.55,963.54,Wright Enterprises,403
+2017-02-24,1,Concerto ao Ar Livre,NÃO,85, Urban Herald,Geraldo Pereira,,0.0,0.0,Adams Holdings,403
+2017-02-24,20, Evento Beneficente,50% PAGO,131,Yahoo,Geraldo Pereira,57795.0,8669.25,1155.9,Bailey & Co,400
+2017-02-24,5, Jantar de Gala,SIM,352, Metro Messenger,Marcelo Mendes,28854.0,4328.099999999999,0.0,Cook & Sons,401
+2017-02-24,18,Festival Cultural,SIM,545, News Flash,Natalia Silva,173615.0,26042.25,0.0,Nelson Corporation,401
+2017-02-24,12,Congresso Científico,50% PAGO,696, Voice of the City,Marcelo Mendes,93835.0,14075.25,1876.7,Não Cadastrado,400
+2017-02-24,19, Jantar de Gala,NÃO,149,Jornal Folha,Natalia Silva,,0.0,0.0,Jones Partners,400
+2017-02-24,6, Lançamento de Produto,50% PAGO,564, Metro Messenger,Natalia Silva,93080.0,13962.0,1861.6000000000001,Jones Partners,401
+2017-02-24,20, Show de Comédia,50% PAGO,802, Media Matters,Natalia Silva,62656.0,9398.4,1253.1200000000001,Turner Corporation,403
+2017-02-24,6, Encontro de Networking,50% PAGO,935,Jornal Folha,Vilma Soares,71595.0,10739.25,1431.9,Brown & Co,403
+2017-02-24,4, Casamento de Luxo,50% PAGO,1204, City Pulse,Geraldo Pereira,76227.0,11434.05,0.0,Gonzalez Group,402
+2017-02-25,2, Fórum de Tecnologia,50% PAGO,372, Prime Times,Marcelo Mendes,98558.0,14783.699999999999,1971.16,Coleman Holdings,400
+2017-02-25,18,Conferência Internacional,50% PAGO,1057, Media Maven,Geraldo Pereira,78760.0,11814.0,1575.2,Coleman Holdings,402
+2017-02-25,2,Concerto ao Ar Livre,SIM,700, City Scope,Natalia Silva,261830.0,39274.5,5236.6,Coleman Holdings,402
+2017-02-25,7,Workshop de Fotografia,50% PAGO,1222, The Daily Echo,Marcelo Mendes,58708.0,8806.199999999999,1174.16,Martinez Corporation,402
+2017-02-25,16, Competição Esportiva,SIM,534, Community Chronicle,Natalia Silva,261238.0,39185.7,5224.76,Wright Enterprises,401
+2017-02-25,8, Jantar de Gala,SIM,1118, People's Gazette,Geraldo Pereira,197326.0,29598.899999999998,0.0,Coleman Holdings,403
+2017-02-25,6, Casamento de Luxo,SIM,158, Local Times,Geraldo Pereira,235017.0,35252.549999999996,0.0,Coleman Holdings,401
+2017-02-25,3, Casamento de Luxo,50% PAGO,190,Estadão,Marcelo Mendes,221804.0,33270.6,0.0,Coleman Holdings,403
+2017-02-25,5,Festival Cultural,50% PAGO,239, The Information Hub,Vilma Soares,56286.0,8442.9,1125.72,Brown & Co,403
+2017-02-25,6, Evento Beneficente,SIM,955, The Information Digest,Natalia Silva,163801.0,24570.149999999998,3276.02,Wilson Industries,400
+2017-02-25,15,Conferência Internacional,50% PAGO,1315, The Information Hub,Geraldo Pereira,98796.0,14819.4,1975.92,Martinez Corporation,401
+2017-02-25,2, Fórum de Tecnologia,SIM,315, Community Digest,Natalia Silva,175783.0,26367.45,3515.66,Coleman Group,402
+2017-02-25,14, Feira Gastronômica,SIM,746, The Update,Natalia Silva,73474.0,11021.1,1469.48,Russell & Co,401
+2017-02-25,19,Concerto ao Ar Livre,50% PAGO,340, Media Monitor,Geraldo Pereira,250522.0,37578.299999999996,5010.4400000000005,Clark Corporation,401
+2017-02-25,17,Conferência Internacional,50% PAGO,1057, City Pulse,Natalia Silva,106168.0,15925.199999999999,2123.36,Scott Corporation,403
+2017-02-25,8,Conferência Internacional,50% PAGO,1253, Trend Watcher,Geraldo Pereira,82097.0,12314.55,1641.94,Foster Corporation,403
+2017-02-25,11, Evento Beneficente,NÃO,1203, Media Express,Marcelo Mendes,,0.0,0.0,Não Cadastrado,400
+2017-02-25,16,Concerto ao Ar Livre,SIM,162, The City Voice,Marcelo Mendes,130180.0,19527.0,2603.6,Coleman Holdings,401
+2017-02-25,14,Congresso Científico,50% PAGO,176, Media Monitor,Marcelo Mendes,127262.0,19089.3,2545.2400000000002,Hall Corporation,401
+2017-02-25,17, Encontro de Networking,50% PAGO,1208, City Digest,Geraldo Pereira,102959.0,15443.849999999999,2059.18,Rivera Holdings,403
+2017-02-25,15, Evento Beneficente,50% PAGO,1136, The Insightful Gazette,Vilma Soares,72904.0,10935.6,1458.08,Não Informado,400
+2017-02-25,15, Evento Beneficente,SIM,755, Media Spotlight,Vilma Soares,299074.0,44861.1,5981.4800000000005,Coleman Holdings,402
+2017-02-25,4, Competição Esportiva,SIM,743, News Flash,Natalia Silva,94219.0,14132.85,0.0,Não Informado,402
+2017-02-25,13, Evento Beneficente,50% PAGO,130, The Urban Tribune,Geraldo Pereira,299126.0,44868.9,5982.52,Clark Corporation,400
+2017-02-25,3,Concerto ao Ar Livre,50% PAGO,1281, Insight Today,Geraldo Pereira,95037.0,14255.55,1900.74,Johnson Enterprises,402
+2017-02-25,3,Concerto ao Ar Livre,NÃO,784, Community Chronicle,Natalia Silva,,0.0,0.0,Coleman Holdings,401
+2017-02-25,9, Convenção Empresarial,50% PAGO,818, The Informational Herald,Geraldo Pereira,99895.0,14984.25,1997.9,Cook & Sons,402
+2017-02-25,6,Workshop de Fotografia,50% PAGO,1022, The Urban Observer,Natalia Silva,78058.0,11708.699999999999,1561.16,Coleman Holdings,403
+2017-02-25,10, Feira Gastronômica,50% PAGO,829, Info Stream,Natalia Silva,88459.0,13268.85,1769.18,Turner Corporation,401
+2017-02-25,17,Congresso Científico,NÃO,931, City Sun,Marcelo Mendes,,0.0,0.0,Reed Corporation,402
+2017-02-25,13, Evento Beneficente,NÃO,722, Media Spotlight,Geraldo Pereira,,0.0,0.0,Coleman Holdings,400
+2017-02-25,11, Jantar de Gala,SIM,1211, The News Gazette,Natalia Silva,42575.0,6386.25,0.0,Coleman Holdings,403
+2017-02-25,17,Conferência Internacional,SIM,600, News Flash,Vilma Soares,279433.0,41914.95,0.0,Jones Partners,403
+2017-02-25,4, Lançamento de Produto,NÃO,409, Info Stream,Marcelo Mendes,,0.0,0.0,Nelson & Sons,402
+2017-02-25,15, Convenção Empresarial,50% PAGO,641, Community Chronicle,Marcelo Mendes,94163.0,14124.449999999999,1883.26,Coleman Holdings,403
+2017-02-25,8, Casamento de Luxo,SIM,505, The News Gazette,Marcelo Mendes,152631.0,22894.649999999998,0.0,Wright Enterprises,400
+2017-02-25,15, Convenção Empresarial,NÃO,428, Insightful Times,Geraldo Pereira,,0.0,0.0,Morris Enterprises,402
+2017-02-26,19, Casamento de Luxo,SIM,1050, Local Lens,Geraldo Pereira,207777.0,31166.55,0.0,Não Informado,401
+2017-02-26,14, Competição Esportiva,50% PAGO,156,Yahoo,Geraldo Pereira,229711.0,34456.65,4594.22,Brown & Co,403
+2017-02-26,15,Concerto ao Ar Livre,SIM,1019, City Digest,Geraldo Pereira,87572.0,13135.8,1751.44,Não Cadastrado,400
+2017-02-26,1,Workshop de Fotografia,50% PAGO,79, The Press Agency,Geraldo Pereira,67397.0,10109.55,1347.94,Adams Holdings,403
+2017-02-26,17, Convenção Empresarial,50% PAGO,388, City Sun,Natalia Silva,74464.0,11169.6,1489.28,Edwards Group,402
+2017-02-26,3, Casamento de Luxo,SIM,73,Yahoo,Geraldo Pereira,295829.0,44374.35,0.0,Hall Corporation,401
+2017-02-26,4, Jantar de Gala,SIM,676, Metro Monitor,Geraldo Pereira,291295.0,43694.25,0.0,Não Informado,400
+2017-02-26,8, Desfile de Moda,NÃO,241, Media Maven,Natalia Silva,,0.0,0.0,Coleman Holdings,400
+2017-03-01,9,Exposição de Arte,50% PAGO,1290, The Information Digest,Vilma Soares,85538.0,12830.699999999999,1710.76,Coleman Holdings,401
+2017-03-01,2,Seminário de Desenvolvimento Pessoal,SIM,518, Urban Chronicle,Vilma Soares,247958.0,37193.7,4959.16,Evans Enterprises,400
+2017-03-01,4, Evento Beneficente,50% PAGO,89, The Information Hub,Geraldo Pereira,264207.0,39631.049999999996,5284.14,Não Cadastrado,400
+2017-03-01,1, Jantar de Gala,50% PAGO,275, Community Digest,Geraldo Pereira,99506.0,14925.9,0.0,Smith Corporation,402
+2017-03-01,10,Exposição de Arte,50% PAGO,599, City Newsline,Natalia Silva,105662.0,15849.3,0.0,Evans Enterprises,402
+2017-03-01,16, Encontro de Networking,SIM,102, Daily Chronicle,Vilma Soares,190415.0,28562.25,3808.3,Não Cadastrado,403
+2017-03-01,5,Exposição de Arte,50% PAGO,135, City Newsline,Natalia Silva,106787.0,16018.05,0.0,Reed Corporation,401
+2017-03-01,11, Convenção Empresarial,50% PAGO,133, Urban Herald,Natalia Silva,101757.0,15263.55,2035.14,Coleman Holdings,403
+2017-03-01,6,Feira de Negócios,50% PAGO,387, News Flash,Natalia Silva,71798.0,10769.699999999999,0.0,Ross Corporation,400
+2017-03-01,17,Gala de Premiação,NÃO,163, The Information Digest,Marcelo Mendes,,0.0,0.0,Hernandez Group,400
+2017-03-01,16, Feira Gastronômica,SIM,426, Community Digest,Marcelo Mendes,106529.0,15979.349999999999,2130.58,Coleman Holdings,402
+2017-03-01,1, Casamento de Luxo,SIM,1252, Metro Herald,Vilma Soares,31025.0,4653.75,0.0,Rivera Holdings,400
+2017-03-01,12, Feira Gastronômica,NÃO,1075, The Daily Bulletin,Marcelo Mendes,,0.0,0.0,Hayes Holdings,402
+2017-03-01,10,Concerto ao Ar Livre,NÃO,1126, Info Stream,Natalia Silva,,0.0,0.0,Morris Enterprises,402
+2017-03-02,9,Exposição de Arte,50% PAGO,1092, Info Stream,Geraldo Pereira,88364.0,13254.6,1767.28,Walker Partners,403
+2017-03-02,4,Festival Cultural,50% PAGO,562, Urban Express,Marcelo Mendes,98743.0,14811.449999999999,1974.8600000000001,Coleman Holdings,402
+2017-03-02,10, Casamento de Luxo,50% PAGO,153, Media Spotlight,Natalia Silva,39878.0,5981.7,0.0,Coleman Holdings,403
+2017-03-02,20, Feira Gastronômica,50% PAGO,623, The Informational Herald,Natalia Silva,221998.0,33299.7,4439.96,Martinez Corporation,402
+2017-03-02,20, Competição Esportiva,SIM,513, Community Digest,Marcelo Mendes,95708.0,14356.199999999999,1914.16,Coleman Holdings,400
+2017-03-02,4,Congresso Científico,50% PAGO,166,Rede TV New (site),Geraldo Pereira,95298.0,14294.699999999999,0.0,Coleman Holdings,400
+2017-03-02,17, Casamento de Luxo,50% PAGO,672, City Pulse,Geraldo Pereira,259868.0,38980.2,0.0,Cooper Enterprises,402
+2017-03-02,7,Festival Cultural,SIM,697, Insight Today,Vilma Soares,82919.0,12437.85,1658.38,Coleman Holdings,403
+2017-03-02,15, Show de Comédia,50% PAGO,306, Prime Times,Natalia Silva,251270.0,37690.5,5025.400000000001,Roberts Partners,401
+2017-03-02,3,Feira de Negócios,50% PAGO,304, City Scope,Geraldo Pereira,84733.0,12709.949999999999,1694.66,Não Cadastrado,400
+2017-03-02,13,Workshop de Fotografia,50% PAGO,615, Media Tracker,Vilma Soares,202556.0,30383.399999999998,4051.12,Coleman Holdings,400
+2017-03-02,19, Jantar de Gala,NÃO,794,Rede TV New (site),Natalia Silva,,0.0,0.0,Allen & Co,400
+2017-03-02,11,Festival Cultural,SIM,919, Media Matters,Vilma Soares,237185.0,35577.75,4743.7,Phillips & Sons,403
+2017-03-02,20, Convenção Empresarial,50% PAGO,1247, Prime Times,Geraldo Pereira,88493.0,13273.949999999999,1769.8600000000001,Gonzalez Group,402
+2017-03-02,11,Seminário de Desenvolvimento Pessoal,NÃO,1226, Media Tracker,Vilma Soares,,0.0,0.0,Adams Holdings,403
+2017-03-02,10, Lançamento de Produto,SIM,233, Media Monitor,Vilma Soares,281163.0,42174.45,5623.26,Evans Enterprises,400
+2017-03-02,20, Evento Beneficente,NÃO,453,Jornal Folha,Vilma Soares,,0.0,0.0,Mitchell Enterprises,403
+2017-03-02,17,Congresso Científico,SIM,895, The Daily Report,Vilma Soares,282100.0,42315.0,5642.0,Mitchell Enterprises,402
+2017-03-02,15, Fórum de Tecnologia,NÃO,108, Voice of the City,Natalia Silva,,0.0,0.0,Stewart & Co,402
+2017-03-02,6, Show de Comédia,SIM,824, Urban Herald,Natalia Silva,187585.0,28137.75,3751.7000000000003,Wilson Industries,400
+2017-03-02,4, Convenção Empresarial,50% PAGO,56, Local Times,Marcelo Mendes,219381.0,32907.15,4387.62,Coleman Holdings,403
+2017-03-02,14, Lançamento de Produto,50% PAGO,407, The Daily Echo,Marcelo Mendes,153195.0,22979.25,3063.9,Rodriguez & Associates,400
+2017-03-02,1, Fórum de Tecnologia,50% PAGO,392, Local Times,Geraldo Pereira,183161.0,27474.149999999998,3663.2200000000003,Taylor Group,403
+2017-03-02,9,Concerto ao Ar Livre,NÃO,804, The News Gazette,Geraldo Pereira,,0.0,0.0,Williams Industries,401
+2017-03-02,4,Concerto ao Ar Livre,NÃO,112,Jornal Folha,Natalia Silva,,0.0,0.0,Nelson & Sons,402
+2017-03-02,8,Concerto ao Ar Livre,50% PAGO,692, The Press Agency,Geraldo Pereira,63667.0,9550.05,1273.34,Walker Partners,402
+2017-03-02,3, Lançamento de Produto,SIM,912, Media Spotlight,Vilma Soares,161837.0,24275.55,3236.7400000000002,Morris Enterprises,401
+2017-03-02,13, Feira Gastronômica,50% PAGO,109, Trend Watcher,Vilma Soares,109256.0,16388.399999999998,2185.12,Cook & Sons,403
+2017-03-02,4,Workshop de Fotografia,50% PAGO,633, Urban Update,Natalia Silva,95934.0,14390.1,1918.68,Evans Enterprises,401
+2017-03-02,3,Congresso Científico,NÃO,352,Jornal Folha,Natalia Silva,,0.0,0.0,Nelson Corporation,403
+2017-03-02,13,Feira de Negócios,50% PAGO,901, Urban Update,Vilma Soares,215498.0,32324.699999999997,4309.96,Walker Partners,403
+2017-03-02,15,Gala de Premiação,50% PAGO,440, Express News,Vilma Soares,89461.0,13419.15,0.0,Coleman Holdings,403
+2017-03-02,14, Competição Esportiva,50% PAGO,758,Jornal Folha,Marcelo Mendes,80814.0,12122.1,1616.28,Rogers Group,402
+2017-03-02,10, Competição Esportiva,NÃO,399, Insightful Observer,Natalia Silva,,0.0,0.0,Coleman Holdings,401
+2017-03-03,15,Festival Cultural,NÃO,272, The Urban Observer,Marcelo Mendes,,0.0,0.0,Sanchez Holdings,402
+2017-03-03,6, Competição Esportiva,50% PAGO,1240, The Daily Echo,Marcelo Mendes,60971.0,9145.65,1219.42,Smith Corporation,402
+2017-03-03,18,Conferência Internacional,SIM,1167, The Information Hub,Marcelo Mendes,199978.0,29996.699999999997,3999.56,Foster Corporation,401
+2017-03-03,15, Desfile de Moda,50% PAGO,823, Media Spotlight,Natalia Silva,89629.0,13444.35,1792.58,Johnson Enterprises,401
+2017-03-03,12, Convenção Empresarial,NÃO,993, The Daily Insight,Vilma Soares,,0.0,0.0,Russell & Co,402
+2017-03-03,6,Festival Cultural,50% PAGO,936, Media Maven,Marcelo Mendes,107102.0,16065.3,2142.04,Wilson Industries,401
+2017-03-03,4, Desfile de Moda,50% PAGO,96, The Information Hub,Geraldo Pereira,257146.0,38571.9,5142.92,Jones Partners,401
+2017-03-04,10, Jantar de Gala,50% PAGO,914, Media Tracker,Vilma Soares,103612.0,15541.8,0.0,Johnson Enterprises,403
+2017-03-04,16, Evento Beneficente,SIM,240, Media Monitor,Natalia Silva,212053.0,31807.949999999997,4241.06,Nelson Corporation,402
+2017-03-04,17, Desfile de Moda,50% PAGO,153, Insightful Times,Vilma Soares,76867.0,11530.05,1537.3400000000001,Brown & Co,403
+2017-03-04,11,Workshop de Fotografia,50% PAGO,673, Media Pulse,Natalia Silva,94625.0,14193.75,1892.5,Smith Corporation,400
+2017-03-04,12, Fórum de Tecnologia,SIM,806,O Globo,Geraldo Pereira,45072.0,6760.8,901.44,Não Cadastrado,401
+2017-03-04,10,Congresso Científico,NÃO,767, The Insightful Gazette,Geraldo Pereira,,0.0,0.0,Gray Enterprises,401
+2017-03-04,12,Seminário de Desenvolvimento Pessoal,NÃO,71, City Digest,Marcelo Mendes,,0.0,0.0,Edwards Group,402
+2017-03-04,1, Fórum de Tecnologia,50% PAGO,642, The Daily Report,Vilma Soares,47800.0,7170.0,956.0,Cook & Sons,403
+2017-03-04,13, Evento Beneficente,SIM,201, Insightful Times,Vilma Soares,70730.0,10609.5,1414.6000000000001,Gonzalez Group,403
+2017-03-04,15, Jantar de Gala,50% PAGO,588, Insightful Times,Natalia Silva,91273.0,13690.949999999999,0.0,Walker Partners,400
+2017-03-04,12, Convenção Empresarial,SIM,488, Local Lens,Geraldo Pereira,23821.0,3573.15,476.42,Não Cadastrado,401
+2017-03-04,6,Concerto ao Ar Livre,50% PAGO,587, The Daily Report,Vilma Soares,27940.0,4191.0,558.8000000000001,Phillips & Sons,401
+2017-03-04,4, Casamento de Luxo,SIM,661, News Flash,Geraldo Pereira,72509.0,10876.35,0.0,Não Cadastrado,400
+2017-03-04,14, Encontro de Networking,50% PAGO,545, News Hub,Natalia Silva,55337.0,8300.55,0.0,Walker Partners,403
+2017-03-05,8,Seminário de Desenvolvimento Pessoal,NÃO,506, The Press Agency,Natalia Silva,,0.0,0.0,Coleman Holdings,403
+2017-03-05,18, Encontro de Networking,50% PAGO,1057, Insight Today,Natalia Silva,280497.0,42074.549999999996,5609.9400000000005,Não Cadastrado,401
+2017-03-05,7, Lançamento de Produto,NÃO,213, Media Tracker,Geraldo Pereira,,0.0,0.0,Coleman Holdings,403
+2017-03-05,13, Encontro de Networking,50% PAGO,503, The Daily Bulletin,Marcelo Mendes,96165.0,14424.75,1923.3,Hayes Holdings,400
+2017-03-05,19,Feira de Negócios,50% PAGO,189, Metro Monitor,Marcelo Mendes,260413.0,39061.95,5208.26,Rodriguez Group,402
+2017-03-05,7,Exposição de Arte,50% PAGO,1266, Metro Monitor,Marcelo Mendes,101527.0,15229.05,2030.54,Reed Corporation,402
+2017-03-05,16, Show de Comédia,50% PAGO,394, Daily Chronicle,Vilma Soares,83490.0,12523.5,1669.8,Coleman Holdings,403
+2017-03-05,19,Conferência Internacional,50% PAGO,467, Urban Herald,Marcelo Mendes,106742.0,16011.3,2134.84,Rivera Holdings,401
+2017-03-05,18,Feira de Negócios,50% PAGO,475, City Digest,Vilma Soares,88859.0,13328.85,1777.18,Garcia Enterprises,401
+2017-03-05,16,Conferência Internacional,50% PAGO,1226, Local Lens,Geraldo Pereira,137725.0,20658.75,2754.5,Rodriguez Group,401
+2017-03-06,2,Gala de Premiação,SIM,942, Media Matters,Marcelo Mendes,83745.0,12561.75,0.0,Clark Corporation,400
+2017-03-06,1, Casamento de Luxo,50% PAGO,971, City Digest,Natalia Silva,192129.0,28819.35,0.0,Young Holdings,400
+2017-03-06,6, Casamento de Luxo,50% PAGO,852, Global News Network,Vilma Soares,96053.0,14407.949999999999,0.0,Coleman Holdings,402
+2017-03-06,19,Seminário de Desenvolvimento Pessoal,NÃO,618, Insight Today,Marcelo Mendes,,0.0,0.0,Adams Holdings,400
+2017-03-06,4,Festival Cultural,50% PAGO,290, The Urban Tribune,Natalia Silva,83745.0,12561.75,1674.9,Morgan Holdings,402
+2017-03-06,11, Evento Beneficente,NÃO,858, Global News Network,Natalia Silva,,0.0,0.0,Coleman Holdings,403
+2017-03-06,2, Show de Comédia,SIM,1232, The Informational Herald,Vilma Soares,91528.0,13729.199999999999,1830.56,Perry Group,402
+2017-03-06,6, Desfile de Moda,50% PAGO,88, The Insightful Gazette,Geraldo Pereira,181961.0,27294.149999999998,3639.2200000000003,Bailey & Co,403
+2017-03-06,8,Congresso Científico,SIM,184, City Pulse,Natalia Silva,63955.0,9593.25,1279.1000000000001,Coleman Group,400
+2017-03-06,13, Encontro de Networking,50% PAGO,641, The Press Agency,Vilma Soares,158044.0,23706.6,3160.88,Collins Corporation,400
+2017-03-06,15, Evento Beneficente,50% PAGO,897, Insightful Observer,Vilma Soares,58662.0,8799.3,1173.24,Foster Corporation,403
+2017-03-06,11,Festival Cultural,50% PAGO,1299, Trend Watcher,Marcelo Mendes,25786.0,3867.8999999999996,515.72,Não Informado,400
+2017-03-06,3, Fórum de Tecnologia,SIM,255, The Urban Express,Vilma Soares,117397.0,17609.55,2347.94,Coleman Group,403
+2017-03-06,16, Fórum de Tecnologia,SIM,146, The Informational Herald,Marcelo Mendes,200440.0,30066.0,4008.8,Wilson Industries,401
+2017-03-06,4,Seminário de Desenvolvimento Pessoal,SIM,1161, Express News,Geraldo Pereira,271394.0,40709.1,0.0,Perry Group,400
+2017-03-06,9, Fórum de Tecnologia,50% PAGO,794, Metro Herald,Marcelo Mendes,56067.0,8410.05,1121.34,Ross Corporation,401
+2017-03-06,1, Fórum de Tecnologia,NÃO,98, The Update,Natalia Silva,,0.0,0.0,Anderson & Sons,402
+2017-03-20,10, Desfile de Moda,SIM,731, Local Times,Geraldo Pereira,54865.0,8229.75,1097.3,Gonzalez Group,401
+2017-03-20,13, Evento Beneficente,50% PAGO,652, Prime Times,Marcelo Mendes,110770.0,16615.5,2215.4,Perez Holdings,403
+2017-03-20,11,Conferência Internacional,50% PAGO,1309, Voice of the City,Marcelo Mendes,159352.0,23902.8,3187.04,Sanchez Holdings,400
+2017-05-01,18,Festival Cultural,SIM,57, Urban Chronicle,Marcelo Mendes,197207.0,29581.05,3944.14,Edwards Group,401
+2017-05-01,17, Competição Esportiva,50% PAGO,163, City Newsline,Geraldo Pereira,60828.0,9124.199999999999,0.0,Morris Enterprises,400
+2017-05-01,6,Festival Cultural,NÃO,868, People's Gazette,Geraldo Pereira,,0.0,0.0,Rogers Group,402
+2017-05-01,18, Encontro de Networking,50% PAGO,760, City Scope,Geraldo Pereira,68529.0,10279.35,1370.58,Coleman Holdings,400
+2017-05-01,4, Lançamento de Produto,SIM,177, City Buzz,Geraldo Pereira,218331.0,32749.649999999998,4366.62,Não Informado,403
+2017-05-01,8, Desfile de Moda,50% PAGO,1008, Media Express,Vilma Soares,280406.0,42060.9,5608.12,Não Cadastrado,402
+2017-05-01,12, Jantar de Gala,50% PAGO,440, Media Monitor,Marcelo Mendes,119833.0,17974.95,0.0,Bennett Holdings,400
+2017-05-01,4, Lançamento de Produto,NÃO,1017, Media Monitor,Natalia Silva,,0.0,0.0,Green & Co,402
+2017-05-02,9, Desfile de Moda,NÃO,423, The Daily Bulletin,Geraldo Pereira,,0.0,0.0,Coleman Holdings,400
+2017-05-02,3,Gala de Premiação,50% PAGO,243, City Scope,Geraldo Pereira,225555.0,33833.25,0.0,Coleman Holdings,402
+2017-05-02,13,Conferência Internacional,50% PAGO,592, Metro Tribune,Vilma Soares,174767.0,26215.05,3495.34,Turner Corporation,402
+2017-05-02,16, Lançamento de Produto,50% PAGO,175, The Urban Observer,Vilma Soares,216492.0,32473.8,4329.84,Coleman Holdings,402
+2017-05-02,16,Concerto ao Ar Livre,50% PAGO,1205, Media Express,Geraldo Pereira,100571.0,15085.65,2011.42,Hall Corporation,400
+2017-05-02,3, Casamento de Luxo,50% PAGO,148, The Daily Report,Natalia Silva,74319.0,11147.85,0.0,Brown & Co,403
+2017-05-02,18, Jantar de Gala,50% PAGO,144, City Sun,Marcelo Mendes,93429.0,14014.35,0.0,Martinez Corporation,400
+2017-05-02,10,Feira de Negócios,50% PAGO,576, Insightful Observer,Vilma Soares,90279.0,13541.85,1805.58,Não Cadastrado,403
+2017-05-02,2,Exposição de Arte,NÃO,292, Insight Today,Vilma Soares,,0.0,0.0,Nelson Corporation,403
+2017-05-03,1, Jantar de Gala,50% PAGO,1240, Insightful Times,Geraldo Pereira,193673.0,29050.95,0.0,Coleman Holdings,401
+2017-05-03,13, Casamento de Luxo,NÃO,788, The Press Agency,Geraldo Pereira,,0.0,0.0,Sanchez Holdings,403
+2017-05-03,15, Casamento de Luxo,SIM,156, The Update,Marcelo Mendes,20629.0,3094.35,0.0,Não Informado,403
+2017-05-03,10,Exposição de Arte,SIM,916, Media Pulse,Natalia Silva,220330.0,33049.5,4406.6,Adams Holdings,403
+2017-05-03,14, Competição Esportiva,NÃO,330, The Insightful Gazette,Natalia Silva,,0.0,0.0,Hall Corporation,401
+2017-05-03,2,Feira de Negócios,SIM,636, The Insightful Gazette,Natalia Silva,188012.0,28201.8,3760.2400000000002,Morris Enterprises,400
+2017-05-03,5, Casamento de Luxo,SIM,913, Media Spotlight,Marcelo Mendes,75801.0,11370.15,0.0,Não Cadastrado,403
+2017-05-03,7, Show de Comédia,50% PAGO,159,Yahoo,Vilma Soares,156056.0,23408.399999999998,3121.12,Coleman Holdings,400
+2017-05-03,16,Congresso Científico,SIM,1245, The Urban Express,Natalia Silva,291931.0,43789.65,5838.62,Hayes Holdings,402
+2017-05-03,9,Conferência Internacional,SIM,701, City Digest,Vilma Soares,70717.0,10607.55,1414.34,Walker Partners,400
+2017-05-03,2,Festival Cultural,NÃO,582, Media Tracker,Marcelo Mendes,,0.0,0.0,Russell & Co,400
+2017-05-03,16,Congresso Científico,SIM,410, Trend Watcher,Vilma Soares,143083.0,21462.45,2861.66,Coleman Group,400
+2017-05-03,7, Encontro de Networking,SIM,363, News Beat,Natalia Silva,21030.0,3154.5,0.0,Phillips & Sons,400
+2017-05-03,10, Casamento de Luxo,NÃO,284, Local Times,Geraldo Pereira,,0.0,0.0,Rodriguez & Associates,400
+2017-05-03,5, Casamento de Luxo,SIM,189, City Buzz,Geraldo Pereira,140609.0,21091.35,0.0,Ortiz Enterprises,400
+2017-05-03,19,Seminário de Desenvolvimento Pessoal,NÃO,1071, The News Gazette,Vilma Soares,,0.0,0.0,Green & Co,403
+2017-05-03,11, Convenção Empresarial,SIM,419, City Pulse,Geraldo Pereira,246440.0,36966.0,4928.8,Hayes Holdings,400
+2017-05-04,14, Show de Comédia,50% PAGO,585, Insight Today,Natalia Silva,84344.0,12651.6,1686.88,Perez Holdings,403
+2017-05-04,3,Concerto ao Ar Livre,50% PAGO,772, The Daily Echo,Vilma Soares,110520.0,16578.0,2210.4,Scott Corporation,403
+2017-05-04,14,Festival Cultural,50% PAGO,691,Veja,Geraldo Pereira,69774.0,10466.1,1395.48,Anderson & Sons,403
+2017-05-04,2, Feira Gastronômica,NÃO,979, The Urban Tribune,Natalia Silva,,0.0,0.0,Morgan Holdings,402
+2017-05-04,8,Workshop de Fotografia,50% PAGO,1170, Express News,Vilma Soares,30942.0,4641.3,0.0,Jones Partners,400
+2017-05-04,16, Feira Gastronômica,NÃO,1059, The News Gazette,Vilma Soares,,0.0,0.0,Jones Partners,401
+2017-05-04,8,Exposição de Arte,50% PAGO,197, Media Maven,Vilma Soares,95618.0,14342.699999999999,1912.3600000000001,Thomas Holdings,401
+2017-05-04,20,Seminário de Desenvolvimento Pessoal,50% PAGO,73, Metro Monitor,Geraldo Pereira,80506.0,12075.9,1610.1200000000001,Coleman Holdings,401
+2017-05-04,16, Encontro de Networking,50% PAGO,607, The City Voice,Natalia Silva,90092.0,13513.8,1801.8400000000001,Bennett Holdings,400
+2017-05-04,15,Feira de Negócios,NÃO,852, Trend Watcher,Natalia Silva,,0.0,0.0,Coleman Group,402
+2017-05-04,19, Show de Comédia,50% PAGO,309, Newsline Journal,Marcelo Mendes,72486.0,10872.9,0.0,Coleman Holdings,402
+2017-05-04,20, Desfile de Moda,SIM,183, Newsline Journal,Vilma Soares,106752.0,16012.8,0.0,Perry Group,400
+2017-05-04,3, Feira Gastronômica,50% PAGO,619, Community Chronicle,Vilma Soares,211942.0,31791.3,4238.84,Collins Corporation,402
+2017-05-04,2, Feira Gastronômica,50% PAGO,549, The Urban Observer,Geraldo Pereira,79223.0,11883.449999999999,1584.46,Não Cadastrado,401
+2017-05-04,5, Fórum de Tecnologia,SIM,853, Local Times,Vilma Soares,134796.0,20219.399999999998,2695.92,Mitchell Enterprises,403
+2017-05-04,18,Seminário de Desenvolvimento Pessoal,NÃO,1036, City Pulse,Marcelo Mendes,,0.0,0.0,Thomas Holdings,402
+2017-05-04,5, Encontro de Networking,50% PAGO,831, The Daily Insight,Marcelo Mendes,100081.0,15012.15,2001.6200000000001,Coleman Holdings,401
+2017-05-04,10,Workshop de Fotografia,50% PAGO,930, Newsline Journal,Natalia Silva,279658.0,41948.7,0.0,Hall Corporation,403
+2017-05-04,6,Gala de Premiação,NÃO,539, Media Express,Geraldo Pereira,,0.0,0.0,Hayes Holdings,401
+2017-05-04,8, Lançamento de Produto,50% PAGO,479, The Press Agency,Natalia Silva,62427.0,9364.05,1248.54,Reed Corporation,401
+2017-05-04,5,Festival Cultural,50% PAGO,1299, City News Now,Marcelo Mendes,109181.0,16377.15,0.0,Thomas Holdings,400
+2017-05-04,15, Show de Comédia,50% PAGO,1254, The Insightful Gazette,Vilma Soares,50426.0,7563.9,1008.52,Williams Industries,400
+2017-05-04,18,Congresso Científico,50% PAGO,247, City Buzz,Geraldo Pereira,74752.0,11212.8,1495.04,Garcia Enterprises,401
+2017-05-04,2,Exposição de Arte,50% PAGO,1255, Community Digest,Marcelo Mendes,99364.0,14904.599999999999,1987.28,Green & Co,400
+2017-05-04,16, Desfile de Moda,NÃO,1095, Urban Express,Natalia Silva,,0.0,0.0,Nelson Corporation,402
+2017-05-05,2, Jantar de Gala,NÃO,160, Express News,Marcelo Mendes,,0.0,0.0,Coleman Holdings,403
+2017-05-05,2,Concerto ao Ar Livre,SIM,250, Urban Herald,Vilma Soares,274472.0,41170.799999999996,5489.4400000000005,Coleman Holdings,400
+2017-05-05,7, Encontro de Networking,NÃO,532,Veja,Vilma Soares,,0.0,0.0,Coleman Holdings,401
+2017-05-05,18,Seminário de Desenvolvimento Pessoal,50% PAGO,66, News Flash,Vilma Soares,81889.0,12283.35,0.0,Taylor Group,401
+2017-05-05,20, Fórum de Tecnologia,50% PAGO,872, News Hub,Geraldo Pereira,61708.0,9256.199999999999,0.0,Davis Holdings,400
+2017-05-05,15,Festival Cultural,50% PAGO,1315, Urban Herald,Vilma Soares,82061.0,12309.15,1641.22,Coleman Group,403
+2017-05-05,13,Exposição de Arte,50% PAGO,828, News Wave,Marcelo Mendes,83225.0,12483.75,0.0,Não Cadastrado,400
+2017-05-05,8,Concerto ao Ar Livre,SIM,356, City Digest,Natalia Silva,178065.0,26709.75,3561.3,Rivera Holdings,403
+2017-05-05,3,Festival Cultural,NÃO,1250, News Flash,Geraldo Pereira,,0.0,0.0,Não Informado,403
+2017-05-05,13, Encontro de Networking,NÃO,715,Yahoo,Vilma Soares,,0.0,0.0,Garcia Enterprises,403
+2017-05-05,10,Concerto ao Ar Livre,SIM,875, Voice of the City,Geraldo Pereira,258262.0,38739.299999999996,5165.24,Gray Enterprises,402
+2017-05-05,8,Seminário de Desenvolvimento Pessoal,50% PAGO,553, Media Spotlight,Geraldo Pereira,86763.0,13014.449999999999,1735.26,Hayes Holdings,403
+2017-05-05,11,Exposição de Arte,50% PAGO,311, The Urban Express,Geraldo Pereira,66061.0,9909.15,1321.22,Coleman Holdings,400
+2017-05-05,11, Desfile de Moda,NÃO,1003, The Urban Observer,Natalia Silva,,0.0,0.0,Stewart & Co,402
+2017-05-05,6, Casamento de Luxo,50% PAGO,414, Media Spotlight,Vilma Soares,85920.0,12888.0,0.0,Stewart & Co,401
+2017-05-05,19, Evento Beneficente,50% PAGO,117, The Urban Tribune,Vilma Soares,61719.0,9257.85,1234.38,Roberts Partners,401
+2017-05-05,10,Exposição de Arte,50% PAGO,886,Yahoo,Vilma Soares,56338.0,8450.699999999999,1126.76,Gonzalez Group,400
+2017-05-05,6, Desfile de Moda,NÃO,1178, Metro Tribune,Natalia Silva,,0.0,0.0,Gonzalez Group,402
+2017-05-06,9, Encontro de Networking,SIM,399, People's Gazette,Marcelo Mendes,22920.0,3438.0,458.40000000000003,Gonzalez Group,401
+2017-05-06,6,Workshop de Fotografia,50% PAGO,940, People's Gazette,Marcelo Mendes,63196.0,9479.4,1263.92,Evans Enterprises,400
+2017-05-06,9, Feira Gastronômica,50% PAGO,964, Global News Network,Marcelo Mendes,154310.0,23146.5,0.0,Não Informado,402
+2017-05-06,4, Fórum de Tecnologia,NÃO,424,Rede TV New (site),Marcelo Mendes,,0.0,0.0,Morris Enterprises,400
+2017-05-06,4, Feira Gastronômica,NÃO,1322, The Information Hub,Vilma Soares,,0.0,0.0,Young Holdings,403
+2017-05-07,11, Evento Beneficente,SIM,313, Urban Chronicle,Geraldo Pereira,155188.0,23278.2,3103.76,Coleman Holdings,400
+2017-05-07,14, Convenção Empresarial,50% PAGO,625, Trend Watcher,Marcelo Mendes,132136.0,19820.399999999998,2642.7200000000003,Coleman Holdings,403
+2017-05-07,17,Conferência Internacional,NÃO,1151, Urban Update,Marcelo Mendes,,0.0,0.0,Nelson Corporation,401
+2017-05-07,2, Encontro de Networking,SIM,1277, News Flash,Geraldo Pereira,112501.0,16875.149999999998,0.0,Nelson & Sons,402
+2017-05-07,11,Gala de Premiação,50% PAGO,795, City News Now,Natalia Silva,129335.0,19400.25,0.0,Stewart & Co,400
+2017-05-08,15,Festival Cultural,50% PAGO,96, City Pulse,Natalia Silva,100719.0,15107.849999999999,2014.38,Coleman Holdings,403
+2017-05-08,15, Fórum de Tecnologia,SIM,1264, The Daily Bulletin,Marcelo Mendes,201139.0,30170.85,4022.78,Smith Corporation,401
+2017-05-08,17,Congresso Científico,SIM,933, Urban Update,Marcelo Mendes,206828.0,31024.199999999997,4136.56,Wilson Industries,402
+2017-05-08,16, Feira Gastronômica,50% PAGO,528, Local Lens,Vilma Soares,72788.0,10918.199999999999,1455.76,Clark Corporation,400
+2017-05-08,4, Encontro de Networking,50% PAGO,1321,O Globo,Geraldo Pereira,62463.0,9369.449999999999,1249.26,Não Cadastrado,403
+2017-05-08,17, Convenção Empresarial,50% PAGO,981, City Digest,Geraldo Pereira,70881.0,10632.15,1417.6200000000001,Morgan Holdings,402
+2017-05-08,12, Competição Esportiva,NÃO,408, Local Lens,Natalia Silva,,0.0,0.0,Johnson Enterprises,401
+2017-05-08,17, Jantar de Gala,SIM,1163, Insightful Observer,Natalia Silva,250049.0,37507.35,0.0,Thomas Holdings,402
+2017-05-08,16, Feira Gastronômica,SIM,674, Community Chronicle,Natalia Silva,42687.0,6403.05,853.74,Garcia Enterprises,402
+2017-05-08,18, Casamento de Luxo,SIM,774, The Update,Natalia Silva,204491.0,30673.649999999998,0.0,Jones Partners,400
+2017-05-08,13, Competição Esportiva,NÃO,997, The Informational Herald,Geraldo Pereira,,0.0,0.0,Não Informado,400
+2017-05-08,5,Conferência Internacional,NÃO,1186,Jornal Folha,Vilma Soares,,0.0,0.0,Thomas Holdings,401
+2017-05-08,15,Feira de Negócios,NÃO,424, The Urban Tribune,Marcelo Mendes,,0.0,0.0,Rodriguez Group,400
+2017-05-08,4,Workshop de Fotografia,NÃO,1104, Insight Today,Natalia Silva,,0.0,0.0,Cook & Sons,402
+2017-05-08,7,Concerto ao Ar Livre,NÃO,720, Newsline Journal,Natalia Silva,,0.0,0.0,Phillips & Sons,402
+2017-05-08,5, Fórum de Tecnologia,50% PAGO,889, News Beat,Marcelo Mendes,93305.0,13995.75,0.0,Brown & Co,403
+2017-05-08,16,Concerto ao Ar Livre,50% PAGO,887, Express News,Marcelo Mendes,58780.0,8817.0,0.0,Carter & Co,403
+2017-05-16,15, Jantar de Gala,50% PAGO,341, City Pulse,Vilma Soares,99653.0,14947.949999999999,0.0,Johnson Enterprises,403
+2017-05-16,6, Desfile de Moda,50% PAGO,438, Urban Herald,Natalia Silva,283081.0,42462.15,5661.62,Foster Corporation,402
+2017-05-16,18,Congresso Científico,SIM,1307, The Urban Tribune,Marcelo Mendes,262595.0,39389.25,5251.900000000001,Mitchell Enterprises,400
+2017-05-16,4,Congresso Científico,SIM,1232, City News Now,Geraldo Pereira,217683.0,32652.449999999997,0.0,Roberts Partners,401
+2017-05-16,14,Seminário de Desenvolvimento Pessoal,NÃO,1125, Express News,Vilma Soares,,0.0,0.0,Davis Holdings,400
+2017-03-30,19, Encontro de Networking,NÃO,449, Metro Messenger,Vilma Soares,,0.0,0.0,Coleman Holdings,403
