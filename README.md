@@ -2,45 +2,72 @@
 
 # 📊 Portfólio de Data Analytics
 
-### Transformando dados em informações para apoiar decisões estratégicas.
+### Transformando dados em informações para apoiar decisões de negócio.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=35B7F0&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+Portfólio+de+Data+Analytics;Power+BI+%7C+SQL+%7C+Excel+%7C+Python;Análise+de+Dados+e+Business+Intelligence" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=35B7F0&center=true&vCenter=true&width=750&lines=Data+Analytics+%7C+Business+Intelligence;Power+BI+%7C+SQL+%7C+Excel+%7C+Python;Dashboards+%7C+ETL+%7C+Modelagem+de+Dados" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Power%20BI-Data%20Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-Analytics-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
 </div>
 
 ---
 
-# 👋 Olá!
+# 👋 Sobre mim
 
-Meu nome é **Robson Pereira Machado**.
+Olá! Eu sou **Robson Pereira Machado**, estudante de **Tecnologia em Ciência de Dados** e profissional em transição de carreira para a área de **Dados e Business Intelligence**.
 
-Este repositório reúne meus projetos desenvolvidos durante minha formação em **Data Analytics**, aplicando conceitos de:
+Este repositório reúne projetos desenvolvidos ao longo da minha formação, com foco na aplicação prática de conceitos de **Data Analytics**, **Business Intelligence** e **visualização de dados**.
 
-- 📊 Business Intelligence
-- 📈 Análise de Dados
-- 🗄 SQL
-- 📉 Power BI
-- 🐍 Python
-- 📋 Excel
-- 📑 Modelagem de Dados
-- 📊 Storytelling com Dados
-
-O objetivo deste portfólio é demonstrar minha evolução prática por meio de projetos completos, desde a preparação dos dados até a construção de dashboards e geração de insights para apoio à tomada de decisão.
+Meu objetivo é transformar dados em informações claras, identificar padrões e gerar insights que possam apoiar a tomada de decisões.
 
 ---
 
-# 🛠 Tecnologias
+# 🎯 Objetivo do Portfólio
 
-| Ferramenta | Utilização |
-|------------|------------|
-| Power BI | Dashboards e KPIs |
-| SQL | Consultas e tratamento de dados |
-| Excel | Manipulação e análise |
-| Python | Limpeza e análise de dados |
-| Git | Versionamento |
-| GitHub | Portfólio |
-| DAX | Medidas e KPIs |
-| Power Query | ETL |
+Este portfólio foi criado para demonstrar, na prática, minha evolução na área de dados.
+
+Os projetos seguem, sempre que aplicável, um fluxo semelhante ao encontrado em projetos reais:
+
+```text
+Dados Brutos
+     ↓
+Extração
+     ↓
+Tratamento / ETL
+     ↓
+Modelagem de Dados
+     ↓
+Análise
+     ↓
+Dashboard
+     ↓
+Insights
+     ↓
+Apoio à Decisão
+```
+
+A ideia não é apenas apresentar dashboards, mas demonstrar o processo utilizado para transformar dados em informações úteis para o negócio.
+
+---
+
+# 🛠️ Tecnologias e Ferramentas
+
+| Tecnologia     | Aplicação                                         |
+| -------------- | ------------------------------------------------- |
+| 📊 Power BI    | Dashboards, indicadores e visualização            |
+| 🗄️ SQL        | Consultas, filtros, agregações e análise de dados |
+| 📐 DAX         | Medidas, KPIs e cálculos analíticos               |
+| 🔄 Power Query | ETL, limpeza e transformação de dados             |
+| 📗 Excel       | Tratamento, análise e organização de dados        |
+| 🐍 Python      | Análise exploratória e manipulação de dados       |
+| 🧩 Modelagem   | Estruturação de tabelas e relacionamentos         |
+| 🌐 Git         | Versionamento de código                           |
+| 🐙 GitHub      | Documentação e publicação dos projetos            |
 
 ---
 
@@ -48,133 +75,246 @@ O objetivo deste portfólio é demonstrar minha evolução prática por meio de 
 
 ## 🚗 Projeto 01 — Locadora de Veículos
 
-Dashboard desenvolvido para acompanhamento dos indicadores operacionais e financeiros de uma empresa de locação de veículos.
+Dashboard desenvolvido para análise dos principais indicadores operacionais e financeiros de uma empresa de locação de veículos.
 
-### Principais análises
+### 🔎 Principais análises
 
-- Receita
-- Clientes
-- Veículos
-- Contratos
-- Ticket Médio
-- Indicadores Operacionais
+* Receita
+* Clientes
+* Veículos
+* Contratos
+* Ticket médio
+* Indicadores operacionais
+* Desempenho financeiro
 
-**Tecnologias**
+### 🛠️ Tecnologias
 
-- Power BI
-- SQL
-- Excel
-- DAX
-- Power Query
+`Power BI` `SQL` `Excel` `DAX` `Power Query`
 
-➡️ **Acesse o projeto:** `projeto-01-locadora-de-veiculos`
+👉 **[Acessar Projeto 01](./projeto-01-locadora-de-veiculos)**
 
 ---
 
 ## 🛒 Projeto 02 — Análise de Vendas
 
-Análise dos indicadores comerciais com foco em faturamento, produtos, clientes e desempenho das vendas.
+Projeto de análise comercial com foco no acompanhamento de faturamento, produtos, clientes e desempenho das vendas.
 
-**Tecnologias**
+### 🔎 Principais análises
 
-- Power BI
-- SQL
-- Excel
+* Faturamento
+* Vendas
+* Produtos
+* Clientes
+* Desempenho comercial
+* Indicadores de vendas
 
-➡️ **Acesse o projeto:** `projeto-02-analise-de-vendas`
+### 🛠️ Tecnologias
+
+`Power BI` `SQL` `Excel`
+
+👉 **[Acessar Projeto 02](./projeto-02-analise-de-vendas)**
 
 ---
 
 ## 📣 Projeto 03 — Marketing
 
-Análise de campanhas, canais e indicadores de marketing para avaliação de desempenho.
+Análise de dados de marketing com foco na avaliação do desempenho de campanhas, canais e indicadores de aquisição.
 
-➡️ **Acesse o projeto:** `projeto-03-marketing`
+### 🔎 Principais análises
+
+* Campanhas
+* Canais de marketing
+* Investimentos
+* Conversões
+* Desempenho das campanhas
+* Indicadores de marketing
+
+### 🛠️ Tecnologias
+
+`Power BI` `Excel` `DAX` `Power Query`
+
+👉 **[Acessar Projeto 03](./projeto-03-marketing)**
 
 ---
 
 ## 🎓 Projeto 04 — Universidade
 
-Análise de dados acadêmicos utilizando técnicas de Business Intelligence.
+Projeto de Business Intelligence aplicado à análise de dados acadêmicos.
 
-➡️ **Acesse o projeto:** `projeto-04-universidade`
+### 🔎 Principais análises
+
+* Indicadores acadêmicos
+* Alunos
+* Cursos
+* Desempenho
+* Distribuição dos dados
+* Indicadores educacionais
+
+### 🛠️ Tecnologias
+
+`Power BI` `Excel` `DAX` `Power Query`
+
+👉 **[Acessar Projeto 04](./projeto-04-universidade)**
 
 ---
 
 ## 🎫 Projeto 05 — Eventos
 
-Dashboard para análise de eventos, faturamento e indicadores operacionais.
+Dashboard desenvolvido para análise de eventos, empresas, categorias, participantes e indicadores financeiros.
 
-➡️ **Acesse o projeto:** `projeto-05-eventos`
+### 🔎 Principais análises
+
+* Receita
+* Eventos
+* Empresas
+* Categorias
+* Participantes
+* Receita por empresa
+* Receita por categoria
+* Evolução mensal
+
+### 🛠️ Tecnologias
+
+`Power BI` `SQL` `DAX` `Power Query`
+
+👉 **[Acessar Projeto 05](./projeto-05-eventos)**
 
 ---
 
 ## 🎬 Projeto 06 — Netflix
 
-Análise exploratória de dados do catálogo da Netflix com foco em visualização de dados e geração de insights.
+Projeto de análise exploratória de dados do catálogo da Netflix, utilizando técnicas de tratamento, exploração e visualização de dados.
 
-➡️ **Acesse o projeto:** `projeto-06-netflix`
+### 🔎 Principais análises
+
+* Filmes e séries
+* Gêneros
+* Países
+* Distribuição temporal
+* Classificações
+* Perfil do catálogo
+
+### 🛠️ Tecnologias
+
+`Python` `Pandas` `Plotly` `Power BI`
+
+👉 **[Acessar Projeto 06](./projeto-06-netflix)**
 
 ---
 
-# 📈 Competências Demonstradas
+# 📊 Competências
 
-- Business Intelligence
-- Data Analytics
-- Power BI
-- SQL
-- Python
-- Excel
-- ETL
-- DAX
-- Modelagem de Dados
-- Visualização de Dados
-- Storytelling com Dados
-- Git
-- GitHub
+### 📈 Data Analytics
+
+* Análise exploratória de dados
+* Identificação de padrões
+* Geração de insights
+* Indicadores e KPIs
+* Visualização de dados
+* Storytelling com dados
+
+### 📊 Business Intelligence
+
+* Desenvolvimento de dashboards
+* Modelagem de dados
+* Criação de métricas
+* DAX
+* Power Query
+* ETL
+
+### 🗄️ Dados e Programação
+
+* SQL
+* Python
+* Pandas
+* Excel
+* Git
+* GitHub
+
+---
+
+# 🧠 O que busco demonstrar
+
+Além das ferramentas utilizadas, meus projetos buscam demonstrar minha capacidade de:
+
+* Entender um problema de negócio;
+* Organizar e preparar dados;
+* Realizar análises;
+* Criar indicadores relevantes;
+* Desenvolver dashboards;
+* Interpretar resultados;
+* Comunicar insights de forma visual;
+* Utilizar dados para apoiar decisões.
 
 ---
 
 # 📚 Estrutura do Repositório
 
 ```text
-portfolio-data-analytics
+portfolio-data-analytics/
 │
 ├── README.md
 │
-├── projeto-01-locadora-de-veiculos
-├── projeto-02-analise-de-vendas
-├── projeto-03-marketing
-├── projeto-04-universidade
-├── projeto-05-eventos
-└── projeto-06-netflix
+├── projeto-01-locadora-de-veiculos/
+│   ├── README.md
+│   ├── dados/
+│   ├── dashboard/
+│   ├── imagens/
+│   ├── sql/
+│   └── documentos/
+│
+├── projeto-02-analise-de-vendas/
+│   └── README.md
+│
+├── projeto-03-marketing/
+│   └── README.md
+│
+├── projeto-04-universidade/
+│   └── README.md
+│
+├── projeto-05-eventos/
+│   ├── README.md
+│   ├── dados/
+│   ├── dashboard/
+│   ├── imagens/
+│   └── sql/
+│
+└── projeto-06-netflix/
+    └── README.md
 ```
 
 ---
 
-# 🎯 Objetivo
+# 🚀 Evolução
 
-Este portfólio foi criado para consolidar meus estudos e apresentar projetos práticos que demonstrem minhas habilidades em análise de dados, visualização e Business Intelligence.
+Este portfólio está em constante evolução junto com minha formação em **Ciência de Dados**.
 
-Cada projeto contém documentação própria, conjunto de dados, scripts, dashboards e os principais insights obtidos durante o desenvolvimento.
+Novos projetos serão adicionados conforme avanço nos estudos de:
+
+* 📊 Business Intelligence
+* 🗄️ SQL
+* 🐍 Python
+* 📈 Estatística
+* 🤖 Machine Learning
+* 🧠 Ciência de Dados
+
+O objetivo é construir uma trajetória prática, evoluindo de **Data Analytics e Business Intelligence** para projetos cada vez mais avançados na área de dados.
 
 ---
 
 # 📫 Contato
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/robs-data/">
-
 <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
 
 <a href="mailto:robsonp.mdo@gmail.com">
-
 <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
+
+</div>
 
 ---
 
@@ -182,6 +322,6 @@ Cada projeto contém documentação própria, conjunto de dados, scripts, dashbo
 
 ### ⭐ Obrigado por visitar meu portfólio!
 
-Se algum projeto chamou sua atenção, fique à vontade para explorar os repositórios e acompanhar minha evolução.
+**Explore os projetos, analise os dashboards e acompanhe minha evolução na área de dados.**
 
 </div>
