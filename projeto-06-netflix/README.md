@@ -1,92 +1,259 @@
-# 🎬 Projeto 06 — Análise de Dados da Netflix
+# 🎬 Projeto 06 — Análise de Acessos da Netflix
 
-### 📊 Transformando dados de acessos da Netflix em informações para análise de desempenho e comportamento dos usuários.
+### 🚀 Pipeline de Dados com SQL Server + Power BI
+
+Projeto desenvolvido com o objetivo de construir um fluxo completo de análise de dados, partindo de dados brutos de acessos da Netflix até a criação de uma camada analítica preparada para consumo no Power BI.
+
+O foco principal do projeto foi trabalhar não apenas a visualização dos dados, mas também a **organização, tratamento, padronização e estruturação das informações antes da construção do dashboard**.
 
 ---
 
 ## 📌 Sobre o Projeto
 
-Este projeto tem como objetivo realizar uma análise de dados relacionados aos acessos da Netflix, explorando informações de utilização da plataforma em diferentes períodos e regiões.
+Neste projeto foi desenvolvido um pipeline de dados utilizando **SQL Server** e **Power BI**, passando pelas etapas de exploração, tratamento, transformação e disponibilização dos dados para análise.
 
-A análise foi desenvolvida utilizando **SQL Server** para estruturação e consulta dos dados e **Power BI** para tratamento, modelagem, criação de indicadores e visualização das informações.
+A estrutura foi organizada separando os **dados brutos** da **camada analítica**, permitindo maior organização e controle sobre o processo de transformação dos dados.
 
-O projeto foi construído com foco em transformar dados brutos em informações visuais que facilitem a identificação de padrões e diferenças de acesso entre o Brasil e o cenário global.
-
----
-
-## 🎯 Objetivos
-
-Os principais objetivos do projeto são:
-
-- Analisar os acessos à Netflix;
-- Comparar os dados do Brasil com os dados globais;
-- Organizar e estruturar os dados para análise;
-- Utilizar SQL para criação e consulta da base de dados;
-- Desenvolver indicadores e visualizações no Power BI;
-- Identificar padrões de comportamento nos acessos;
-- Transformar os dados em informações de apoio à análise.
+O projeto utiliza dados relacionados aos acessos da Netflix, possibilitando análises em diferentes níveis, incluindo informações gerais e dados relacionados aos países.
 
 ---
 
-## 🗂️ Processo de Desenvolvimento
+## 🔄 Pipeline do Projeto
 
-O projeto foi desenvolvido seguindo um fluxo de análise de dados:
+~~~text
+Dados Brutos
+     │
+     ▼
+SQL Server
+     │
+     ├── Análise das tabelas originais
+     │
+     ├── Tratamento dos dados
+     │
+     ├── Padronização
+     │
+     ├── Ajuste dos tipos de dados
+     │
+     ▼
+Camada Analítica
+     │
+     ├── Views Analíticas
+     │
+     ├── Ano
+     ├── Mês
+     └── Trimestre
+     │
+     ▼
+Power BI
+     │
+     ▼
+Dashboard
+~~~
 
-### 1. Coleta e organização dos dados
+---
 
-Os dados utilizados no projeto foram organizados em arquivos CSV e Excel, contendo informações relacionadas aos acessos da Netflix.
+## 🔎 Etapa 1 — Exploração e Tratamento dos Dados
 
-Os arquivos foram separados entre dados gerais e informações relacionadas aos acessos por país.
+A primeira etapa foi realizada utilizando o **Microsoft SQL Server**, começando pela análise das tabelas originais.
 
-### 2. Estruturação dos dados
+### Principais atividades
 
-Foi utilizada uma base SQL para estruturar os dados e facilitar sua consulta.
+- Análise exploratória das tabelas originais;
+- Identificação da estrutura dos dados;
+- Criação de tabelas tratadas;
+- Separação entre dados brutos e dados analíticos;
+- Padronização dos nomes das colunas;
+- Ajuste dos tipos de dados;
+- Preparação dos dados para as etapas seguintes.
 
-O script SQL contém a criação da estrutura do banco e a inserção dos dados necessários para o desenvolvimento das análises.
+Entre os tipos de dados trabalhados estão:
 
-### 3. Consultas e tratamento com SQL
+~~~text
+DATE
+INT
+DECIMAL
+TIME
+~~~
 
-O SQL foi utilizado para explorar os dados, realizar consultas e preparar informações que posteriormente seriam utilizadas na análise.
+Também foi realizado o tratamento de campos relacionados a tempo utilizando conversões como:
 
-Essa etapa permitiu trabalhar diretamente com os dados antes da construção das visualizações.
+~~~sql
+CAST(... AS TIME(0))
+~~~
 
-### 4. Análise e visualização no Power BI
+Essa etapa foi importante para garantir que os dados chegassem à camada analítica de forma mais consistente e adequada para utilização no Power BI.
 
-Após a organização dos dados, as informações foram utilizadas no Power BI para construção do dashboard.
+---
 
-Foram criadas visualizações para facilitar a interpretação dos dados e permitir uma análise comparativa entre o Brasil e o cenário global.
+## 🗄️ Etapa 2 — Estruturação da Camada Analítica
+
+Após o tratamento das tabelas, foi criada uma camada específica para consumo analítico.
+
+Nessa etapa foram desenvolvidas **Views SQL**, organizando os dados de maneira mais adequada para análises no Power BI.
+
+### As views incluem informações como:
+
+- Ano;
+- Mês;
+- Trimestre;
+- Campos organizados semanticamente;
+- Informações preparadas para análise temporal.
+
+Essa abordagem permite que o Power BI consuma uma estrutura previamente organizada, reduzindo a necessidade de realizar transformações complexas diretamente no dashboard.
+
+---
+
+## 📊 Etapa 3 — Power BI
+
+Com a camada analítica estruturada no SQL Server, os dados foram utilizados no **Power BI** para construção do dashboard.
+
+O objetivo foi transformar os dados tratados em visualizações que permitissem analisar os acessos da Netflix de maneira mais clara e interativa.
+
+### 🇧🇷 Dashboard — Brasil
+
+![Análise de Acessos no Brasil](./imagens/brasil.png)
+
+### 🌎 Dashboard — Visão Global
+
+![Análise Global de Acessos](./imagens/global.png)
+
+---
+
+## 🎯 Resultado
+
+O resultado foi um pipeline estruturado que conecta:
+
+**Dados → SQL Server → Tratamento → Camada Analítica → Power BI → Dashboard**
+
+A principal proposta do projeto foi demonstrar que uma análise de dados eficiente não começa no dashboard.
+
+Antes da visualização, é necessário garantir que os dados estejam:
+
+- Organizados;
+- Padronizados;
+- Estruturados;
+- Com tipos de dados adequados;
+- Preparados para análise.
+
+Esse processo contribui para uma camada de BI mais organizada e facilita a manutenção e evolução das análises.
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Power BI** — Dashboard e visualização dos dados
-- **SQL Server** — Banco de dados e consultas SQL
-- **Excel** — Organização e armazenamento dos dados
-- **CSV** — Arquivos de dados utilizados na análise
-- **DAX** — Criação de medidas e indicadores no Power BI
-- **Power Query** — Tratamento e preparação dos dados
-
----
-
-## 🗄️ Dados Utilizados
-
-Os dados do projeto estão organizados na pasta `dados/`:
-
-| Arquivo | Descrição |
+| Tecnologia | Utilização |
 |---|---|
-| `NETFLIX(ACESSOS GERAL).csv` | Dados gerais de acessos |
-| `NETFLIX(ACESSOS PAISES).csv` | Dados relacionados aos acessos por país |
-| `NETFLIX.xlsx` | Base de dados em formato Excel |
+| **SQL Server** | Banco de dados, tratamento e consultas |
+| **SQL** | Criação e transformação dos dados |
+| **Power BI** | Dashboard e visualização |
+| **Excel** | Fonte e organização dos dados |
+| **CSV** | Dados brutos utilizados no projeto |
+| **Modelagem Relacional** | Estruturação dos dados |
+| **Views SQL** | Criação da camada analítica |
 
 ---
 
-## 💻 Banco de Dados
+## 📂 Dados Utilizados
 
-A etapa de banco de dados foi desenvolvida utilizando **SQL Server**.
+Os arquivos utilizados no projeto estão organizados na pasta `dados/`.
 
-O projeto possui um script responsável pela criação da estrutura do banco e inserção dos dados:
+~~~text
+dados/
+├── NETFLIX(ACESSOS GERAL).csv
+├── NETFLIX(ACESSOS PAISES).csv
+└── NETFLIX.xlsx
+~~~
 
-```text
+---
+
+## 🗃️ Scripts SQL
+
+O projeto possui um script SQL responsável pela criação da estrutura do banco e inserção dos dados.
+
+~~~text
 sql/
 └── 1_CRIACAO_DE_BANCO+INSERTS.sql
+~~~
+
+---
+
+## 📊 Dashboard
+
+O dashboard desenvolvido no Power BI está disponível no arquivo:
+
+~~~text
+dashboard/
+└── projeto_netflix.pbix
+~~~
+
+### 🔗 Dashboard publicado
+
+[**Acessar Dashboard no Power BI**](https://lnkd.in/dtFJsGJC)
+
+---
+
+## 📁 Estrutura do Projeto
+
+~~~text
+projeto-06-netflix/
+│
+├── dados/
+│   ├── NETFLIX(ACESSOS GERAL).csv
+│   ├── NETFLIX(ACESSOS PAISES).csv
+│   └── NETFLIX.xlsx
+│
+├── dashboard/
+│   └── projeto_netflix.pbix
+│
+├── imagens/
+│   ├── brasil.png
+│   └── global.png
+│
+├── sql/
+│   └── 1_CRIACAO_DE_BANCO+INSERTS.sql
+│
+└── README.md
+~~~
+
+---
+
+## 📚 Principais Competências Desenvolvidas
+
+- Análise exploratória de dados;
+- Tratamento e transformação de dados;
+- SQL Server;
+- SQL;
+- Criação de tabelas;
+- Criação de Views;
+- Modelagem relacional;
+- Padronização de dados;
+- Tratamento de tipos de dados;
+- Análise temporal;
+- Power BI;
+- Construção de dashboards;
+- Organização de pipelines de dados;
+- Separação entre camada bruta e camada analítica.
+
+---
+
+## 💡 Aprendizado do Projeto
+
+Este projeto reforçou uma etapa fundamental do trabalho com dados:
+
+> **Um bom dashboard começa com dados bem estruturados.**
+
+A experiência permitiu trabalhar o processo de análise de ponta a ponta, compreendendo a importância de preparar e organizar os dados antes de disponibilizá-los para ferramentas de Business Intelligence.
+
+---
+
+## 👨‍💻 Autor
+
+**Robson Pereira Machado**
+
+Estudante de **Ciência de Dados** com foco em **Análise de Dados e Business Intelligence**.
+
+🔗 [GitHub — robs-data](https://github.com/robs-data)
+
+---
+
+⭐ Se você gostou do projeto, considere deixar uma estrela no repositório.
