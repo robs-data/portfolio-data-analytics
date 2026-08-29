@@ -247,53 +247,6 @@ Além das ferramentas utilizadas, meus projetos buscam demonstrar minha capacida
 
 ---
 
-# 📚 Estrutura do Repositório
-
-portfolio-data-analytics/
-│
-├── README.md
-│
-├── projeto-01-locadora-de-veiculos/
-│   ├── README.md
-│   ├── dados/
-│   ├── dashboard/
-│   └── imagens/
-│
-├── projeto-02-analise-de-vendas/
-│   ├── README.md
-│   ├── dados/
-│   ├── dashboard/
-│   ├── imagens/
-│   └── scripts/
-│
-├── projeto-03-marketing/
-│   ├── README.md
-│   ├── dados/
-│   ├── dashboard/
-│   └── imagens/
-│
-├── projeto-04-universidade/
-│   ├── README.md
-│   ├── dados/
-│   ├── dashboard/
-│   └── imagens/
-│
-├── projeto-05-eventos/
-│   ├── README.md
-│   ├── dados/
-│   ├── dashboard/
-│   ├── imagens/
-│   └── sql/
-│
-└── projeto-06-netflix/
-    ├── README.md
-    ├── dados/
-    ├── dashboard/
-    ├── imagens/
-    └── sql/
-
----
-
 # 🚀 Evolução
 
 Este portfólio está em constante evolução junto com minha formação em **Ciência de Dados**.
