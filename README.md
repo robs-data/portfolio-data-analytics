@@ -21,9 +21,9 @@
 
 Olá! Eu sou **Robson Pereira Machado**, estudante de **Tecnologia em Ciência de Dados** e profissional em transição de carreira para a área de **Dados e Business Intelligence**.
 
-Este repositório reúne projetos desenvolvidos ao longo da minha formação, com foco na aplicação prática de conceitos de **Data Analytics**, **Business Intelligence** e **visualização de dados**.
+Este repositório reúne projetos desenvolvidos ao longo da minha formação, com foco na aplicação prática de conceitos de **Data Analytics**, **Business Intelligence**, **SQL**, **Power BI**, **Excel** e **visualização de dados**.
 
-Meu objetivo é transformar dados em informações claras, identificar padrões e gerar insights que possam apoiar a tomada de decisões.
+Meu objetivo é transformar dados em informações claras, identificar padrões, gerar insights e desenvolver soluções que possam apoiar a tomada de decisões.
 
 ---
 
@@ -31,43 +31,29 @@ Meu objetivo é transformar dados em informações claras, identificar padrões 
 
 Este portfólio foi criado para demonstrar, na prática, minha evolução na área de dados.
 
-Os projetos seguem, sempre que aplicável, um fluxo semelhante ao encontrado em projetos reais:
+Os projetos apresentam diferentes etapas do processo de análise, desde a organização e preparação dos dados até a construção de dashboards e interpretação dos resultados.
 
-```text
-Dados Brutos
-     ↓
-Extração
-     ↓
-Tratamento / ETL
-     ↓
-Modelagem de Dados
-     ↓
-Análise
-     ↓
-Dashboard
-     ↓
-Insights
-     ↓
-Apoio à Decisão
-```
+Sempre que aplicável, os projetos seguem um fluxo semelhante ao encontrado em cenários reais:
 
-A ideia não é apenas apresentar dashboards, mas demonstrar o processo utilizado para transformar dados em informações úteis para o negócio.
+**Dados Brutos → Extração → Tratamento / ETL → Modelagem de Dados → Análise → Dashboard → Insights → Apoio à Decisão**
+
+A proposta não é apenas apresentar dashboards, mas demonstrar o processo utilizado para transformar dados em informações úteis para o negócio.
 
 ---
 
 # 🛠️ Tecnologias e Ferramentas
 
-| Tecnologia     | Aplicação                                         |
-| -------------- | ------------------------------------------------- |
-| 📊 Power BI    | Dashboards, indicadores e visualização            |
-| 🗄️ SQL        | Consultas, filtros, agregações e análise de dados |
-| 📐 DAX         | Medidas, KPIs e cálculos analíticos               |
-| 🔄 Power Query | ETL, limpeza e transformação de dados             |
-| 📗 Excel       | Tratamento, análise e organização de dados        |
-| 🐍 Python      | Análise exploratória e manipulação de dados       |
-| 🧩 Modelagem   | Estruturação de tabelas e relacionamentos         |
-| 🌐 Git         | Versionamento de código                           |
-| 🐙 GitHub      | Documentação e publicação dos projetos            |
+| Tecnologia | Aplicação |
+|---|---|
+| 📊 Power BI | Dashboards, indicadores e visualização |
+| 🗄️ SQL / SQL Server | Consultas, tratamento e estruturação de dados |
+| 📐 DAX | Medidas, KPIs e cálculos analíticos |
+| 🔄 Power Query | ETL, limpeza e transformação de dados |
+| 📗 Excel | Organização, tratamento e análise de dados |
+| 🐍 Python | Análise exploratória e manipulação de dados |
+| 🧩 Modelagem de Dados | Estruturação de tabelas e relacionamentos |
+| 🌐 Git | Versionamento dos projetos |
+| 🐙 GitHub | Documentação e publicação dos projetos |
 
 ---
 
@@ -75,7 +61,7 @@ A ideia não é apenas apresentar dashboards, mas demonstrar o processo utilizad
 
 ## 🚗 Projeto 01 — Locadora de Veículos
 
-Dashboard desenvolvido para análise dos principais indicadores operacionais e financeiros de uma empresa de locação de veículos.
+Projeto de Business Intelligence desenvolvido para análise dos principais indicadores operacionais e financeiros de uma empresa de locação de veículos.
 
 ### 🔎 Principais análises
 
@@ -97,7 +83,7 @@ Dashboard desenvolvido para análise dos principais indicadores operacionais e f
 
 ## 🛒 Projeto 02 — Análise de Vendas
 
-Projeto de análise comercial com foco no acompanhamento de faturamento, produtos, clientes e desempenho das vendas.
+Projeto de análise comercial desenvolvido para acompanhar o desempenho das vendas e fornecer uma visão dos principais indicadores comerciais.
 
 ### 🔎 Principais análises
 
@@ -105,12 +91,13 @@ Projeto de análise comercial com foco no acompanhamento de faturamento, produto
 * Vendas
 * Produtos
 * Clientes
+* Metas
 * Desempenho comercial
 * Indicadores de vendas
 
 ### 🛠️ Tecnologias
 
-`Power BI` `SQL` `Excel`
+`Power BI` `Excel` `DAX` `Power Query`
 
 👉 **[Acessar Projeto 02](./projeto-02-analise-de-vendas)**
 
@@ -118,7 +105,7 @@ Projeto de análise comercial com foco no acompanhamento de faturamento, produto
 
 ## 📣 Projeto 03 — Marketing
 
-Análise de dados de marketing com foco na avaliação do desempenho de campanhas, canais e indicadores de aquisição.
+Projeto de análise de dados de marketing com foco na avaliação do desempenho de campanhas, canais e indicadores relacionados à aquisição e conversão.
 
 ### 🔎 Principais análises
 
@@ -139,7 +126,7 @@ Análise de dados de marketing com foco na avaliação do desempenho de campanha
 
 ## 🎓 Projeto 04 — Universidade
 
-Projeto de Business Intelligence aplicado à análise de dados acadêmicos.
+Projeto de Business Intelligence aplicado à análise de dados acadêmicos, utilizando conceitos de **modelagem dimensional**, organização dos dados e construção de indicadores.
 
 ### 🔎 Principais análises
 
@@ -160,7 +147,7 @@ Projeto de Business Intelligence aplicado à análise de dados acadêmicos.
 
 ## 🎫 Projeto 05 — Eventos
 
-Dashboard desenvolvido para análise de eventos, empresas, categorias, participantes e indicadores financeiros.
+Projeto de Business Intelligence desenvolvido para análise de eventos, empresas, categorias, participantes e indicadores financeiros.
 
 ### 🔎 Principais análises
 
@@ -181,22 +168,27 @@ Dashboard desenvolvido para análise de eventos, empresas, categorias, participa
 
 ---
 
-## 🎬 Projeto 06 — Netflix
+## 🎬 Projeto 06 — Análise de Acessos da Netflix
 
-Projeto de análise exploratória de dados do catálogo da Netflix, utilizando técnicas de tratamento, exploração e visualização de dados.
+Projeto desenvolvido para construir um **pipeline completo de dados**, partindo de dados brutos de acessos da Netflix até a criação de uma camada analítica preparada para consumo no Power BI.
 
-### 🔎 Principais análises
+O projeto teve foco na **exploração, tratamento, padronização e estruturação dos dados**, demonstrando a importância de preparar corretamente as informações antes da construção do dashboard.
 
-* Filmes e séries
-* Gêneros
-* Países
-* Distribuição temporal
-* Classificações
-* Perfil do catálogo
+### 🔎 Principais etapas
+
+* Análise exploratória das tabelas originais
+* Criação de tabelas tratadas
+* Padronização dos nomes das colunas
+* Ajuste dos tipos de dados
+* Tratamento de campos de tempo
+* Separação entre dados brutos e camada analítica
+* Criação de Views SQL
+* Organização de informações temporais
+* Construção do dashboard no Power BI
 
 ### 🛠️ Tecnologias
 
-`Python` `Pandas` `Plotly` `Power BI`
+`SQL Server` `SQL` `Power BI` `Excel` `CSV` `DAX` `Power Query`
 
 👉 **[Acessar Projeto 06](./projeto-06-netflix)**
 
@@ -204,7 +196,7 @@ Projeto de análise exploratória de dados do catálogo da Netflix, utilizando t
 
 # 📊 Competências
 
-### 📈 Data Analytics
+## 📈 Data Analytics
 
 * Análise exploratória de dados
 * Identificação de padrões
@@ -212,8 +204,9 @@ Projeto de análise exploratória de dados do catálogo da Netflix, utilizando t
 * Indicadores e KPIs
 * Visualização de dados
 * Storytelling com dados
+* Análise de desempenho
 
-### 📊 Business Intelligence
+## 📊 Business Intelligence
 
 * Desenvolvimento de dashboards
 * Modelagem de dados
@@ -221,10 +214,13 @@ Projeto de análise exploratória de dados do catálogo da Netflix, utilizando t
 * DAX
 * Power Query
 * ETL
+* Criação de indicadores
+* Organização de camadas analíticas
 
-### 🗄️ Dados e Programação
+## 🗄️ Dados e Programação
 
 * SQL
+* SQL Server
 * Python
 * Pandas
 * Excel
@@ -237,20 +233,22 @@ Projeto de análise exploratória de dados do catálogo da Netflix, utilizando t
 
 Além das ferramentas utilizadas, meus projetos buscam demonstrar minha capacidade de:
 
-* Entender um problema de negócio;
+* Entender problemas e necessidades de negócio;
 * Organizar e preparar dados;
-* Realizar análises;
+* Realizar análises exploratórias;
+* Estruturar dados para consumo analítico;
 * Criar indicadores relevantes;
 * Desenvolver dashboards;
+* Identificar padrões e tendências;
 * Interpretar resultados;
-* Comunicar insights de forma visual;
+* Comunicar informações de forma visual;
+* Transformar dados em insights;
 * Utilizar dados para apoiar decisões.
 
 ---
 
 # 📚 Estrutura do Repositório
 
-```text
 portfolio-data-analytics/
 │
 ├── README.md
@@ -259,18 +257,26 @@ portfolio-data-analytics/
 │   ├── README.md
 │   ├── dados/
 │   ├── dashboard/
-│   ├── imagens/
-│   ├── sql/
-│   └── documentos/
+│   └── imagens/
 │
 ├── projeto-02-analise-de-vendas/
-│   └── README.md
+│   ├── README.md
+│   ├── dados/
+│   ├── dashboard/
+│   ├── imagens/
+│   └── scripts/
 │
 ├── projeto-03-marketing/
-│   └── README.md
+│   ├── README.md
+│   ├── dados/
+│   ├── dashboard/
+│   └── imagens/
 │
 ├── projeto-04-universidade/
-│   └── README.md
+│   ├── README.md
+│   ├── dados/
+│   ├── dashboard/
+│   └── imagens/
 │
 ├── projeto-05-eventos/
 │   ├── README.md
@@ -280,8 +286,11 @@ portfolio-data-analytics/
 │   └── sql/
 │
 └── projeto-06-netflix/
-    └── README.md
-```
+    ├── README.md
+    ├── dados/
+    ├── dashboard/
+    ├── imagens/
+    └── sql/
 
 ---
 
@@ -289,16 +298,24 @@ portfolio-data-analytics/
 
 Este portfólio está em constante evolução junto com minha formação em **Ciência de Dados**.
 
-Novos projetos serão adicionados conforme avanço nos estudos de:
+Atualmente, meu foco está no desenvolvimento de competências relacionadas a:
 
-* 📊 Business Intelligence
+* 📊 Data Analytics
+* 📈 Business Intelligence
 * 🗄️ SQL
+* 📊 Power BI
+* 📗 Excel
 * 🐍 Python
 * 📈 Estatística
+
+Como parte da minha evolução profissional, também pretendo avançar posteriormente em:
+
 * 🤖 Machine Learning
 * 🧠 Ciência de Dados
+* ⚙️ Engenharia de Dados
+* 🧠 Inteligência Artificial
 
-O objetivo é construir uma trajetória prática, evoluindo de **Data Analytics e Business Intelligence** para projetos cada vez mais avançados na área de dados.
+O objetivo é construir uma trajetória prática e consistente na área de dados, evoluindo continuamente minhas habilidades técnicas e analíticas.
 
 ---
 
